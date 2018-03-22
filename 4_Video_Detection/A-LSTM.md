@@ -30,7 +30,7 @@ ROI pooling 输入有两部分组成： data:指的是进入RPN层之前的那�
 1. Object Regression Error
 $$
 \begin{array}l
-\mathcal L_{reg}(l,g,c)=\sum(L_{conf}(c,c^*)+\lambda L_{loc}(l,g))+\alpha \mathcal L_{smooth}  \\
+\mathcal L_{reg}(l,g,c)=\sum(L_{conf}(c,c^* )+\lambda L_{loc}(l,g))+\alpha \mathcal L_{smooth}  \\
 \mathcal L_{smooth} = \sum_\tau(\tilde l_t -\tilde l_{t-1})
 \end{array}
 $$

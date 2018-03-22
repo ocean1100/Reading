@@ -1,5 +1,5 @@
 # Conditional Generative Adversarial Nets
-
+[arXiv](https://arxiv.org/abs/1411.1784)
 
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 

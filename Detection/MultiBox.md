@@ -23,9 +23,9 @@ object locations.
 1. DNN 回归模型：
 * Model：将DNN 输出层改为回归。输出为包含K个bounding box 的坐标$l_k \in R^4$（左上和右下坐标）和这K个box 对应的置信度$c_k \in R$（表明该box 包含物体的可能性大小）。
 * Loss: min{预bbox和真实bbox的匹配误差（平方误差） - 预测bbox 的置信度（条件熵）}
-![MB_loss_match](./assets/MB_loss_match.jpg)
-![MB_loss_conf](./assets/MB_loss_conf.jpg)
-![MB_loss_match](./assets/MB_loss_match_3vt110hx4.jpg)
+![MB_loss_match](./.assets/MB_loss_match.jpg)
+![MB_loss_conf](./.assets/MB_loss_conf.jpg)
+![MB_loss_match](./.assets/MB_loss_match_3vt110hx4.jpg)
 * Optimization：BP
 * 训练细节
 提出Prior Matching 的概念，即将先验知识整合到匹配过程中。具体来说，就是对训练样本的真实bbox 进行聚类，得到物体的几个典型位置，利用他们来辅助匹配。

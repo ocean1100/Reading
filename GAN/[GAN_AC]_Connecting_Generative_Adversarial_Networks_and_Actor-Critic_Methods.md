@@ -1,5 +1,5 @@
-# Connecting Generative Adversarial Networks and Actor-CriticMethods
-
+# Connecting Generative Adversarial Networks and Actor-Critic Methods
+[arXiv](https://arxiv.org/abs/1610.01945)
 
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 

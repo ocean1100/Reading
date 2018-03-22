@@ -1,6 +1,6 @@
 # Semi-supervised Conditional GANs
+[arXiv](https://arxiv.org/abs/1708.05789)
 
-## Related work
 ![uGAN](./.assets/uGAN_788ebzvka.png)
 ![cGAN](./.assets/cGAN_wgtyuwc5s.png)
 ![aGAN](./.assets/aGAN.png)

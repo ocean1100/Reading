@@ -1,5 +1,5 @@
 # DualGAN: Unsupervised Dual Learning for Image-to-Image Translation
-
+[arXiv](https://arxiv.org/abs/1704.02510)
 
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 

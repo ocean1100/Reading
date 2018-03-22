@@ -38,6 +38,10 @@
 - [Unsup_I2I](./GAN/Unsup_I2I.md)
 - [waterGAN](./GAN/waterGAN.md)
 
+## Segmentation
+
+- [Video Object Segmentation with Language Referring Expressions](./Segmentation/Video Object Segmentation with Language Referring Expressions.md)
+
 ## Tracking
 
 - [ADN](./Tracking/ADN.md)
@@ -48,11 +52,6 @@
 
 ## VideoDetection
 
-- [A-LSTM](./VideoDetection/A-LSTM.md)
-- [AOD](./VideoDetection/AOD.md)
-- [ATW](./VideoDetection/ATW.md)
-- [Bottleneck-LSTM](./VideoDetection/Bottleneck-LSTM.md)
-- [ClosedLoop](./VideoDetection/ClosedLoop.md)
 - [D&T](./VideoDetection/D&T.md)
 - [Linking](./VideoDetection/Linking.md)
 - [RAM](./VideoDetection/RAM.md)
@@ -66,4 +65,9 @@
 - [STSN](./VideoDetection/STSN.md)
 - [T-CNN](./VideoDetection/T-CNN.md)
 - [TCN](./VideoDetection/TCN.md)
-- [TPN](./VideoDetection/TPN.md)
+- [[A-LSTM]_Online_Video_Object_Detection_using_Association_LSTM](./VideoDetection/[A-LSTM]_Online_Video_Object_Detection_using_Association_LSTM.md)
+- [[AOD]_Attentional_Network_for_Visual_Object_Detection](./VideoDetection/[AOD]_Attentional_Network_for_Visual_Object_Detection.md)
+- [[ATW]_Attention-based_Temporal_Weighted_Convolutional_Neural_Network_for_Action_Recognition](./VideoDetection/[ATW]_Attention-based_Temporal_Weighted_Convolutional_Neural_Network_for_Action_Recognition.md)
+- [[Bottleneck-LSTM]_Mobile_Video_Object_Detection_with_Temporally-Aware_Feature_Maps](./VideoDetection/[Bottleneck-LSTM]_Mobile_Video_Object_Detection_with_Temporally-Aware_Feature_Maps.md)
+- [[ClosedLoop]_Spatio-Temporal_Closed-Loop_Object_Detection](./VideoDetection/[ClosedLoop]_Spatio-Temporal_Closed-Loop_Object_Detection.md)
+- [[TPN]_Object_Detection_in_Videos_with_Tubelet_Proposal_Networks](./VideoDetection/[TPN]_Object_Detection_in_Videos_with_Tubelet_Proposal_Networks.md)

@@ -1,5 +1,5 @@
 # WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images
-
+[arXiv](https://arxiv.org/abs/1702.07392)
 
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 

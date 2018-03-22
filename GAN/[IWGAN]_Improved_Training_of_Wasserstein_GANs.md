@@ -1,5 +1,5 @@
 # Improved Training of Wasserstein GANs
-
+[arXiv](https://arxiv.org/abs/1704.00028)
 
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 

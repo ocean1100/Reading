@@ -1,5 +1,5 @@
 # Perceptual Losses for Real-Time Style Transfer and Super-Resolution
-
+[arXiv](https://arxiv.org/abs/1603.08155)
 
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 

@@ -1,5 +1,5 @@
 # Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
-
+[arXiv](https://arxiv.org/abs/1609.04802)
 
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 

@@ -1,5 +1,5 @@
 # Improved Techniques for Training GANs
-
+[arXiv](https://arxiv.org/abs/1606.03498)
 [博客](http://blog.csdn.net/zijin0802034/article/details/58643889)
 
 

@@ -8,6 +8,7 @@
 - [Deformable_Convolutional_Networks](./Detection/Deformable_Convolutional_Networks.md)
 - [DSSD](./Detection/DSSD.md)
 - [Faster_RCN](./Detection/Faster_RCN.md)
+- [Mask-RCNN](./Detection/Mask-RCNN.md)
 - [MultiBox](./Detection/MultiBox.md)
 - [R-FCN](./Detection/R-FCN.md)
 - [S3FD_Single_Shot_Scale-invariant_Face_Detector](./Detection/S3FD_Single_Shot_Scale-invariant_Face_Detector.md)

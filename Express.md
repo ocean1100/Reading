@@ -41,6 +41,7 @@
 3. agility 灵活，机敏
 4. be analogous to 相似
 5. Alternatively, 选择性地
+   we explore an alternative way of doing 开发了一种可选择的方法
 6. &(The method) attempts to do 企图
 7. attractive 有吸引力的
 8. ability **to** do # 做#的能力
@@ -300,7 +301,7 @@
 36. & have evolved (excellent propulsive) to do 进化出
 37. enable # to do 使#能做
 38. expediently (touch the essence) 方便地(了解其中的精华)
-39. exploit = develop = propsoe = design = report (方法)被提出、报道、设计、开发
+39. exploit = develop = propsoe = design = report = investigate (方法)被提出、报道、设计、开发、调查
 40. Eventually = Finally 最后
 
 ## F
@@ -334,6 +335,7 @@
 28. feasibility 可行性
 29. Functioning as #, & do  作为#, &
 30. framework / module / architecture / structure / unit (网络的)框架结构
+31. in the field of # 在#领域
 
 ## G
 1. generic 一般的
@@ -356,6 +358,7 @@
 10. holistic 整体的
 11. Hadamard product = element-wise multiplication 对应元素乘积
 12. heretofore 直到此时，迄今为止，在这以前 adv.
+13. likeliness 可能性
 
 ## I
 1. introduce A to B 把A引入到B
@@ -406,10 +409,11 @@
 44. inherently 内在地，本质地
 45. & have/obtain/achieve a huge improvement as opposed to # 对#而言有巨大进步
 46. incoming 新引入的
+47. intersection-over-union (IoU) =  jaccard overlap 交并比
 
 ## J
 1. jointly 连带地
-2. jitter 抖动
+2. jitter (bounding boxes / its coordinates) 抖动 vt
 
 ## K
 
@@ -463,6 +467,7 @@
 10. neglectable / ignorable / negligible 可忽略的
 11. novel = innovate = creative 新颖的
 12. Nevertheless 然而
+13. keep a notion of # 保持#的见解
 
 ## O
 1.  originate from / stems from 源于
@@ -474,7 +479,7 @@
 7. outperform / surpass # 做地比#更好，胜过, 超过
     outperform previous methods by a large margin
 8. ocean science 海洋科学
-9. overcome this difficulty 克服困难
+9. overcome this difficulty /limitations 克服困难
 10. object instance 个体
 11. opt for # 选择
 12. overlook (the following problems) 忽视
@@ -533,6 +538,8 @@
 47. progressively 渐进地 (Our approach progressively improves #)
 48. & be prone to do 可能
 49. posit 断定
+50. # have proven to be successful #被证明是成功的
+51. & can be prohibitive for # (many applications) & 不能用于
 
 ## Q
 1. quantify 量化
@@ -666,6 +673,7 @@
 65. seamlessly 无缝地
 66. & **see modest/big/significant** improvements (in accuracy) 取得了有限/重大的进步
 67. side 一方面的 e.g., & predict semantic attribute as a side task.
+68. be spread-out in time 在时间上展开的
 
 ## T
 1. & has tendency to do / & tend to do 有趋势
@@ -695,6 +703,8 @@
     temporal smoothness 时序上平滑
     temporal interdependency between 时序的相关性
 21. is rarely tackled 还未被解决
+22. tedious 乏味的
+23. throughout (the video) 贯穿、遍及、从始至终、到处 prep.
 
 ## U
 1. an **upstroke** phase 上行程

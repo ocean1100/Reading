@@ -1,6 +1,6 @@
 # Video Object Segmentation with Language Referring Expressions
 [arXiv](https://arxiv.org/abs/1803.08006)
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 [TOC]
 
 ## Method

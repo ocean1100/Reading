@@ -118,6 +118,7 @@
 20. Backbone Network 基础网络
 21. do & on the basis/base of # 基于#做&
     On this basis, ... 在此基础上
+22. by-product 副产品
 
 ## C
 1. be **crucial** to # 对#起决定性作用/ 关键
@@ -252,13 +253,14 @@
 35. draw human gaze吸引人的注意
 36. descendant 后代
 37. drastically 彻底地，大大地
-38. de facto 事实上的
+38. de facto 事实上的(需要斜体)
 39. maintain the identity 保持身份
 40. diverse 多种多样的
 41. have difficulty doing # 做#有困难
 42. devise 设计
 43. are diverse from each other 各不相同
 44. (key) deficiency / drawback / shortage 缺点
+43. differentiate between A and B 区分 vt.
 
 ## E
 1. in exposures of 暴露
@@ -336,6 +338,7 @@
 29. Functioning as #, & do  作为#, &
 30. framework / module / architecture / structure / unit (网络的)框架结构
 31. in the field of # 在#领域
+32. Formally, 形式上
 
 ## G
 1. generic 一般的
@@ -359,6 +362,7 @@
 11. Hadamard product = element-wise multiplication 对应元素乘积
 12. heretofore 直到此时，迄今为止，在这以前 adv.
 13. likeliness 可能性
+14. harsh 严厉的，粗糙的
 
 ## I
 1. introduce A to B 把A引入到B
@@ -411,6 +415,7 @@
 46. incoming 新引入的
 47. intersection-over-union (IoU) =  jaccard overlap 交并比
 50. be infeasible for # 不可行的
+51. instantiate # 举例说明# vt.
 
 ## J
 1. jointly 连带地
@@ -470,6 +475,7 @@
 12. Nevertheless 然而
 13. keep a notion of # 保持#的见解
 14. noticeable 显而易见的，值得注意的
+15. nomenclature 命名法
 
 ## O
 1.  originate from / stems from 源于

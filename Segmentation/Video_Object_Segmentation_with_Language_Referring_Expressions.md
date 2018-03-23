@@ -36,4 +36,4 @@
 > spatial pyramid pooling
 
 ## Learned
-用query找到bbox，再对bbox进行分割，其中对bbox proposal做了时序一致性处理，处理过程存在疑问
+用query找到bbox，再对bbox进行分割，其中对bbox proposal做了时序一致性处理，处理过程存在疑问。

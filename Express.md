@@ -410,6 +410,7 @@
 45. & have/obtain/achieve a huge improvement as opposed to # 对#而言有巨大进步
 46. incoming 新引入的
 47. intersection-over-union (IoU) =  jaccard overlap 交并比
+50. be infeasible for # 不可行的
 
 ## J
 1. jointly 连带地
@@ -418,7 +419,7 @@
 ## K
 
 ## L
-1. lack # / be lacking in # / be short of # / # is lacking / for lack(want) of #
+1. lack # / be lacking in # / be short of # / # is lacking / for lack(want) of # / There lacks #
 2. leverage # to do；leverage # acreoss a new scope (重新)利用
 > leverage (vt): to spread or use resources (=money, skills, buildings etc that an organization has available), ideas etc **again** in several different ways or in different parts of a company, system etc
 
@@ -468,6 +469,7 @@
 11. novel = innovate = creative 新颖的
 12. Nevertheless 然而
 13. keep a notion of # 保持#的见解
+14. noticeable 显而易见的，值得注意的
 
 ## O
 1.  originate from / stems from 源于
@@ -538,7 +540,7 @@
 47. progressively 渐进地 (Our approach progressively improves #)
 48. & be prone to do 可能
 49. posit 断定
-50. # have proven to be successful #被证明是成功的
+50. & have proven to be successful &被证明是成功的
 51. & can be prohibitive for # (many applications) & 不能用于
 
 ## Q
@@ -606,6 +608,7 @@
 51. it is unrealistic to do # 做#不现实
 52. relegate & as # 把&归类为#
 53. (dramatically) revolutionize # 彻底改革#
+54. relation of # to & #和&的关系
 
 ## S
 1. the method **struggles** with sth / to do sth 表现不好

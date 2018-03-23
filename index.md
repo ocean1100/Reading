@@ -5,6 +5,7 @@
 
 ## Detection
 
+- [Deformable_Convolutional_Networks](./Detection/Deformable_Convolutional_Networks.md)
 - [DSSD](./Detection/DSSD.md)
 - [Faster_RCN](./Detection/Faster_RCN.md)
 - [MultiBox](./Detection/MultiBox.md)
@@ -14,32 +15,36 @@
 - [SSD](./Detection/SSD.md)
 - [YOLO](./Detection/YOLO.md)
 - [Zero-Shot_Detection](./Detection/Zero-Shot_Detection.md)
+- [[BPN]_Single-Shot_Bidirectional_Pyramid_Networks_for_High-Quality_Object_Detection](./Detection/[BPN]_Single-Shot_Bidirectional_Pyramid_Networks_for_High-Quality_Object_Detection.md)
+- [[M-FRCNN]Object_Detection_with_Mask-based_Feature_Encoding](./Detection/[M-FRCNN]Object_Detection_with_Mask-based_Feature_Encoding.md)
 - [[RefineDet]_Single-Shot_Refinement_Neural_Network_for_Object_Detection](./Detection/[RefineDet]_Single-Shot_Refinement_Neural_Network_for_Object_Detection.md)
 
-## GAN
+## Image2image
 
-- [DualGAN_Unsupervised_Dual_Learning_for_Image-to-Image_Translation](./GAN/DualGAN_Unsupervised_Dual_Learning_for_Image-to-Image_Translation.md)
-- [WaterGAN_Unsupervised_Generative_Network_to_Enable_Real-time_Color_Correction_of_Monocular_Underwater_Images](./GAN/WaterGAN_Unsupervised_Generative_Network_to_Enable_Real-time_Color_Correction_of_Monocular_Underwater_Images.md)
-- [[CGAN]_Conditional_Generative_Adversarial_Nets](./GAN/[CGAN]_Conditional_Generative_Adversarial_Nets.md)
-- [[CycleGAN]_Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks](./GAN/[CycleGAN]_Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.md)
-- [[DCGAN]_Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks](./GAN/[DCGAN]_Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md)
-- [[GAN_AC]_Connecting_Generative_Adversarial_Networks_and_Actor-Critic_Methods](./GAN/[GAN_AC]_Connecting_Generative_Adversarial_Networks_and_Actor-Critic_Methods.md)
-- [[ITGAN]_Improved_Techniques_for_Training_GANs](./GAN/[ITGAN]_Improved_Techniques_for_Training_GANs.md)
-- [[IWGAN]_Improved_Training_of_Wasserstein_GANs](./GAN/[IWGAN]_Improved_Training_of_Wasserstein_GANs.md)
-- [[OpticalFlow]_Semi-Supervised_Learning_for_Optical_Flow_with_Generative_Adversarial_Networks](./GAN/[OpticalFlow]_Semi-Supervised_Learning_for_Optical_Flow_with_Generative_Adversarial_Networks.md)
-- [[pix2pix]_Image-to-Image_Translation_with_Conditional_Adversarial_Networks](./GAN/[pix2pix]_Image-to-Image_Translation_with_Conditional_Adversarial_Networks.md)
-- [[SRGAN]_Photo-Realistic_Single_Image_Super-Resolution_Using_a_Generative_Adversarial_Network](./GAN/[SRGAN]_Photo-Realistic_Single_Image_Super-Resolution_Using_a_Generative_Adversarial_Network.md)
-- [[SSGAN]_Semi-supervised_Conditional_GANs](./GAN/[SSGAN]_Semi-supervised_Conditional_GANs.md)
-- [[STSR]_Perceptual_Losses_for_Real-Time_Style_Transfer_and_Super-Resolution](./GAN/[STSR]_Perceptual_Losses_for_Real-Time_Style_Transfer_and_Super-Resolution.md)
+- [DualGAN_Unsupervised_Dual_Learning_for_Image-to-Image_Translation](./Image2image/DualGAN_Unsupervised_Dual_Learning_for_Image-to-Image_Translation.md)
+- [WaterGAN_Unsupervised_Generative_Network_to_Enable_Real-time_Color_Correction_of_Monocular_Underwater_Images](./Image2image/WaterGAN_Unsupervised_Generative_Network_to_Enable_Real-time_Color_Correction_of_Monocular_Underwater_Images.md)
+- [[CGAN]_Conditional_Generative_Adversarial_Nets](./Image2image/[CGAN]_Conditional_Generative_Adversarial_Nets.md)
+- [[CycleGAN]_Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks](./Image2image/[CycleGAN]_Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.md)
+- [[DCGAN]_Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks](./Image2image/[DCGAN]_Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md)
+- [[GAN_AC]_Connecting_Generative_Adversarial_Networks_and_Actor-Critic_Methods](./Image2image/[GAN_AC]_Connecting_Generative_Adversarial_Networks_and_Actor-Critic_Methods.md)
+- [[ITGAN]_Improved_Techniques_for_Training_GANs](./Image2image/[ITGAN]_Improved_Techniques_for_Training_GANs.md)
+- [[IWGAN]_Improved_Training_of_Wasserstein_GANs](./Image2image/[IWGAN]_Improved_Training_of_Wasserstein_GANs.md)
+- [[OpticalFlow]_Semi-Supervised_Learning_for_Optical_Flow_with_Generative_Adversarial_Networks](./Image2image/[OpticalFlow]_Semi-Supervised_Learning_for_Optical_Flow_with_Generative_Adversarial_Networks.md)
+- [[pix2pix]_Image-to-Image_Translation_with_Conditional_Adversarial_Networks](./Image2image/[pix2pix]_Image-to-Image_Translation_with_Conditional_Adversarial_Networks.md)
+- [[SRGAN]_Photo-Realistic_Single_Image_Super-Resolution_Using_a_Generative_Adversarial_Network](./Image2image/[SRGAN]_Photo-Realistic_Single_Image_Super-Resolution_Using_a_Generative_Adversarial_Network.md)
+- [[SSGAN]_Semi-supervised_Conditional_GANs](./Image2image/[SSGAN]_Semi-supervised_Conditional_GANs.md)
+- [[STSR]_Perceptual_Losses_for_Real-Time_Style_Transfer_and_Super-Resolution](./Image2image/[STSR]_Perceptual_Losses_for_Real-Time_Style_Transfer_and_Super-Resolution.md)
+
+## Segmentation
+
+- [Video_Object_Segmentation_with_Language_Referring_Expressions](./Segmentation/Video_Object_Segmentation_with_Language_Referring_Expressions.md)
 
 ## ToBeContinued
 
 - [Attention-GAN_for_Object_Transfiguration_in_Wild_Images](./ToBeContinued/Attention-GAN_for_Object_Transfiguration_in_Wild_Images.md)
 - [A_Cascaded_Convolutional_Neural_Network_for_Single_Image_Dehazing](./ToBeContinued/A_Cascaded_Convolutional_Neural_Network_for_Single_Image_Dehazing.md)
 - [A_Survey_of_Deep_Learning_Techniques_for_Mobile_Robot_Applications](./ToBeContinued/A_Survey_of_Deep_Learning_Techniques_for_Mobile_Robot_Applications.md)
-- [Object_Detection_with_Mask-based_Feature_Encoding](./ToBeContinued/Object_Detection_with_Mask-based_Feature_Encoding.md)
 - [PyramidBox_A_Context-assisted_Single_Shot_Face_Detector](./ToBeContinued/PyramidBox_A_Context-assisted_Single_Shot_Face_Detector.md)
-- [Video_Object_Segmentation_with_Language_Referring_Expressions](./ToBeContinued/Video_Object_Segmentation_with_Language_Referring_Expressions.md)
 
 ## Tracking
 

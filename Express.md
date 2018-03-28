@@ -119,11 +119,12 @@
 21. do & on the basis/base of # 基于#做&
     On this basis, ... 在此基础上
 22. by-product 副产品
+23. benefited from # (the success of deep learning), & do 受益于#
 
 ## C
 1. be **crucial** to # 对#起决定性作用/ 关键
 2. contextual information 上下文信息
-3. & has received considerable attention due to # from the research community 由于#，&得到了大量的关注
+3. & has received/attracted considerable/rapidly increased attention due to # from/in the research community 由于#，&得到了大量/迅速增长的关注
 4.  Contrast stretch 对比度增强
 5.  As a consequence,  (不好的)结果
 6.  ceaselessly 不停地
@@ -258,7 +259,7 @@
 40. diverse 多种多样的
 41. have difficulty doing # 做#有困难
 42. devise 设计
-43. are diverse from each other 各不相同
+43. are diverse from each other 各不相同，不同
 44. (key) deficiency / drawback / shortage 缺点
 43. differentiate between A and B 区分 vt.
 
@@ -339,6 +340,7 @@
 30. framework / module / architecture / structure / unit (网络的)框架结构
 31. in the field of # 在#领域
 32. Formally, 形式上
+33. video footage/snippet 视频片段
 
 ## G
 1. generic 一般的
@@ -416,6 +418,7 @@
 47. intersection-over-union (IoU) =  jaccard overlap 交并比
 50. be infeasible for # 不可行的
 51. instantiate # 举例说明# vt.
+52. inter-sequence 序列间的 intra-sequence 序列内的
 
 ## J
 1. jointly 连带地
@@ -548,6 +551,7 @@
 49. posit 断定
 50. & have proven to be successful &被证明是成功的
 51. & can be prohibitive for # (many applications) & 不能用于
+52. Pipeline = approach = method 途径、方法
 
 ## Q
 1. quantify 量化
@@ -594,7 +598,7 @@
 34. relevant = related (study) 相关的
 35. with respect to (w.r.t.) 对于
 36. retain 保持，记住 vt
-    preserve 保留
+    preserve 保留，保存
 37. refine 改善，精炼
 38. get rid of 去掉，去除，放弃
 39. It is recommended to do 建议
@@ -639,7 +643,7 @@
 19. (make a necessary) simplification 简化
 20. systematic review 系统的回顾
 21. & is non-trivial task 并不是不重要的任务
-22. More specifically, 更特别地 (In particular, ... More specifically, )
+22. More specifically，= To be more specific, 更特别地 (In particular, ... More specifically, )
 23. small-sized 小型的
 24. the scope of # 领域
 25. significant amount of #(space) 大量的
@@ -660,7 +664,7 @@
 41. get stuck in # 被困在
 43. be sensitive to 敏感
 44. serve as 作为
-45. separately 各自地，分别地(可用于句中)
+45. separately 各自地，分别地(可用于句中) = respectively
 46. Semantic information 语义信息
 47. comprehensive / synthesized  综合的，合成的
 48. be well suited to do / be suitable for 适合用于做...
@@ -693,7 +697,7 @@
 5. test-bed 测试平台
 6. improve the &(speed) vs #(accuracy) trade-off 更好地权衡了& 和#
 7. take into account # 考虑到
-8. tackle these difficulties 解决困难
+8. tackle these difficulties/challenges 解决困难
 9. #, and thus, # 因此
 10. Typically 典型地
 11. take up 占据
@@ -714,6 +718,7 @@
 21. is rarely tackled 还未被解决
 22. tedious 乏味的
 23. throughout (the video) 贯穿、遍及、从始至终、到处 prep.
+24. tradeoff parameters 需要权衡的参数
 
 ## U
 1. an **upstroke** phase 上行程
@@ -727,6 +732,7 @@
 9. ubiquitous 普遍存在的，无处不在的
 10. underlying reason 潜在的原因
 11. Up-to-date (approach) 最新的、最近的
+12. undergo/encounter # 经历、遭遇#
 
 
 ## V
@@ -757,6 +763,7 @@
 4. whereas 反之
 5. & without considering the influence of # <名词短语>未考虑到#的&
    & ignoring #
+6. Without loss of generality, as an example [of #/to do #], we ... 不失一般性地
 
 ## X
 ## Y

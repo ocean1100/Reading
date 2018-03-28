@@ -44,8 +44,6 @@
 
 - [Attention-GAN_for_Object_Transfiguration_in_Wild_Images](./ToBeContinued/Attention-GAN_for_Object_Transfiguration_in_Wild_Images.md)
 - [A_Cascaded_Convolutional_Neural_Network_for_Single_Image_Dehazing](./ToBeContinued/A_Cascaded_Convolutional_Neural_Network_for_Single_Image_Dehazing.md)
-- [A_Survey_of_Deep_Learning_Techniques_for_Mobile_Robot_Applications](./ToBeContinued/A_Survey_of_Deep_Learning_Techniques_for_Mobile_Robot_Applications.md)
-- [PyramidBox_A_Context-assisted_Single_Shot_Face_Detector](./ToBeContinued/PyramidBox_A_Context-assisted_Single_Shot_Face_Detector.md)
 
 ## Tracking
 
@@ -68,6 +66,7 @@
 - [[Bottleneck-LSTM]_Mobile_Video_Object_Detection_with_Temporally-Aware_Feature_Maps](./VideoDetection/[Bottleneck-LSTM]_Mobile_Video_Object_Detection_with_Temporally-Aware_Feature_Maps.md)
 - [[ClosedLoop]_Spatio-Temporal_Closed-Loop_Object_Detection](./VideoDetection/[ClosedLoop]_Spatio-Temporal_Closed-Loop_Object_Detection.md)
 - [[D&T]_Detect_to_Track_and_Track_to_Detect](./VideoDetection/[D&T]_Detect_to_Track_and_Track_to_Detect.md)
+- [[DuATM]_Dual_Attention_Matching_Network_for_Context-Aware_Feature_Sequence_based_Person_Re-Identification](./VideoDetection/[DuATM]_Dual_Attention_Matching_Network_for_Context-Aware_Feature_Sequence_based_Person_Re-Identification.md)
 - [[RAM]_Recurrent_Models_of_Visual_Attention](./VideoDetection/[RAM]_Recurrent_Models_of_Visual_Attention.md)
 - [[Re-id]_An_Improved_Deep_Learning_Architecture_for_Person_Re-Identification](./VideoDetection/[Re-id]_An_Improved_Deep_Learning_Architecture_for_Person_Re-Identification.md)
 - [[ResAtt]_Residual_Attention_Network_for_Image_Classification](./VideoDetection/[ResAtt]_Residual_Attention_Network_for_Image_Classification.md)

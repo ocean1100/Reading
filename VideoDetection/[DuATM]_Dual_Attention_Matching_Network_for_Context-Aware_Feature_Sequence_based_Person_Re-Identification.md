@@ -48,3 +48,6 @@
 
 3. Loss: **siamese architecture with triplet loss**
 ![triplet](./.assets/triplet.jpg)
+
+## Learned
+从image sequence 的角度处理ReID，主要在特征匹配方面提出了新思路：两次计算attention，最后计算两个sequence的距离。

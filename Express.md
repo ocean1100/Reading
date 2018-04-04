@@ -79,18 +79,23 @@
 36. ally & with/to # 联合、结合
 37. aim(n.) take aim at somebody/something / aim of sth / with the aim of doing something
     (v.) aim to do
-38. apart from / in addition to 除了
+38. apart from / in addition to / Besides doing, 除了
 39. be able to 能
 40. classical alternative to # 经典的方法
 42. be (often) attributed (in part) to (部分)归因于/归结为
 43. attention-aware features 注意力特征
 44. alleviate (the problem) 减轻
-45. Afterwards 后来
+45. Afterwards, 后来
 46. adapt #/itself to (the aquatic environment) 适应
 47. analytical / analytically 分析的/地, 解析的
 48. applicable range 应用范围
 49. auxiliary 辅助的
 50. do & in an attempt to do # 目的是、为了
+51. in accord with # 符合
+52. agilely 灵活地
+53. After all 毕竟、终究
+54. & be advancing at a rapid pace &正在迅速发展
+55. attribute & to # 把&归因于#
 
 ## B
 1. binocular(ly) 双目的
@@ -103,7 +108,7 @@
 8. unbalanced (adj.) imbalance (n.) 不平衡
 9. on this basis 在此基础上
 10. bidirectionally 双向地
-11. A large body of   大量的文献
+11. A large body of / a great deal of   大量的文献
 12. & find it beneficial to do &发现...有益处
 13. There are benefits of & over # &相比起#有好处
 14. boost the performance 提升性能
@@ -111,6 +116,7 @@
           be decomposed into (spatial and temporal components)
           be divided into
           be clasified into
+    & fall into two categories 分为两类
 16. Beyond #， & do 除了#之外，&还
 17. Benefitted from #, & do 从#中获益
 18. beforehand 事先、预先adv.
@@ -119,10 +125,13 @@
 21. do & on the basis/base of # 基于#做&
     On this basis, ... 在此基础上
 22. by-product 副产品
-23. benefited from # (the success of deep learning), & do 受益于#
+23. benefited from # (the great progress/success of deep learning), & do 受益于#
+24. & is beneficial in doing # 对#有益处、好处
+25. buoy 浮标
+26. ... , especially in the background of #, ... 尤其是在#背景下
 
 ## C
-1. be **crucial** to # 对#起决定性作用/ 关键
+1. be **crucial/key** to (doing) # 对#起决定性作用/ 关键
 2. contextual information 上下文信息
 3. & has received/attracted considerable/rapidly increased attention due to # from/in the research community 由于#，&得到了大量/迅速增长的关注
 4.  Contrast stretch 对比度增强
@@ -131,7 +140,7 @@
 7.  be challenged by # 在#方面受到挑战
 8.  be poorly contrasted 低对比度的
 9.  challenging 富有挑战性的
-10.  By contrast, / in contrast to # 相比之下
+10.  By contrast, / in contrast to # 相比之下,对比
 11.  For convenience and brevity, 简便起见
 12.  designed the concept of 设计了一种概念
 13.  & be composed of # and # &由#组成
@@ -143,7 +152,7 @@
 17. a carefully crafted design 精心的设计
 18. most critically 最关键地（用于句首）
 19. come with 具有 (this simple solution comes with two major drawbacks)
-20. when it comes to # / in terms of # 就#而言
+20. when it comes to # / in terms of # / As for # / Concerning # / As far as # is concerned  就#而言
 21. comprehensive 综合的
 22. & is of crucial importance &是很重要的
 23. (its deeper/shallower) counterpart 版本
@@ -202,12 +211,14 @@
 70. it is conceived that 可以认为...
 71. considerably improved/enhanced 显著增长的
 72. To cover the shortage of #, & do 为解决#的缺陷/不足/缺点
+    To over these drawbacks，
 73. concentrate on # 集中注意力于#
 74. convincing 令人信服的
 75.  Their results concluded that 他们的结果表明
 76. coarsely 粗略地
 77. conjecture 推测
 78. We choose # for concreteness. Our method is applicable to other architectures. 选择#作为具体案例，也可用于其他架构
+79. is characterized by # 有#特点、特征
 
 ## D
 1. a **downstroke** phase 下行程
@@ -225,7 +236,7 @@
 13. & have been demonstrated in the experiments 在实验中说明
 14. derive 衍生，派生
 15. dilemma 左右为难的问题
-16. indiscriminative 不加区别的
+16. indiscriminative 不加区别的 discriminative 有鉴别力的，可区分的
 17. if it is deemed necessary to do # 如果认为#是必要的
      be deemed to be #
      be deemed to do #
@@ -243,6 +254,7 @@
     Distinct from #， &
     diverge / diverging from #，&
     Distinguished from #, & ... 不同于，区别于
+    As opposed to #, & ...
 27. & be indistinguishable from # 不能被区分的
 28. distinctive 有特色的，与众不同的
 29. discern 辨别(vt.)
@@ -262,6 +274,7 @@
 43. are diverse from each other 各不相同，不同
 44. (key) deficiency / drawback / shortage 缺点
 43. differentiate between A and B 区分 vt.
+44. There is no denying that 不可否认的是
 
 ## E
 1. in exposures of 暴露
@@ -306,6 +319,11 @@
 38. expediently (touch the essence) 方便地(了解其中的精华)
 39. exploit = develop = propsoe = design = report = investigate (方法)被提出、报道、设计、开发、调查
 40. Eventually = Finally 最后
+41. & are endowed with # 被赋予
+42. The first endeavor to do # 第一次尝试做#
+43. ever-growing interest in # 日益增长的#
+44. A great deal of effort has been made towards # 对于#已做了很多努力
+45. it is expected that 期望是
 
 ## F
 1. following their example, 根据
@@ -338,9 +356,10 @@
 28. feasibility 可行性
 29. Functioning as #, & do  作为#, &
 30. framework / module / architecture / structure / unit (网络的)框架结构
-31. in the field of # 在#领域
+31. in the field of # 在#方面、领域
 32. Formally, 形式上
 33. video footage/snippet 视频片段
+34. fictitious 虚构的，假想的
 
 ## G
 1. generic 一般的
@@ -348,6 +367,7 @@
 3. general-purpose solution 通用性的解决方法
 4. & give rise to # = # is produced by & = # result in & = & lead to # = & invite # = & cause # = & incur # = bring about # 导致/造成
 5. & gains more importance as # do &变得更加重要当...
+6. & is one of the fastest growing fields of # &是一个快速的发展的领域
 
 ## H
 1. haptic 触觉的
@@ -365,6 +385,7 @@
 12. heretofore 直到此时，迄今为止，在这以前 adv.
 13. likeliness 可能性
 14. harsh 严厉的，粗糙的
+15. heuristic 启发式的
 
 ## I
 1. introduce A to B 把A引入到B
@@ -403,6 +424,8 @@
 30. it is of interest to explore 有趣
 31. impede = hamper 阻碍
 32. Intuitively 直觉地
+    intuitive idea 直觉的
+    intuition 直觉
 33. the immense number of 大量的
 34. insurmountable 不可逾越的
 35. there are practical issues in doing (making them high resolution) 有实际的问题
@@ -419,6 +442,13 @@
 50. be infeasible for # 不可行的
 51. instantiate # 举例说明# vt.
 52. inter-sequence 序列间的 intra-sequence 序列内的
+53. intrinsically 本质地，固有地，实在地
+54. illustrative example 说明性的例子
+55. intricate 复杂的，错乱的
+56. imprecise 不精确的、不严密的
+57. intractable 棘手的、难办的
+58. in-depth (investigation) 深入的
+59. insight(s) into #(developing innovative underwater vehicles) 对#的洞察
 
 ## J
 1. jointly 连带地
@@ -461,24 +491,26 @@
 17. autonomous maritime and underwater operations 自治航行水下作业
 18. milestone 里程碑，划时代的事件
 19. merit(s) = advantage(s) 功绩、优点
+20. multifarious 多种多样的
+21. In the meantime = Meanwhile = simultaneously 同时
 
 
 ## N
-1. notably 显著地，值得注意地
+1. notably = noticeably 显著地，值得注意地
+   notable = Noticeable
 2. noteworthy 值得注意的 (It is noteworthy/noted ( from the above studies) that)
 3. without the need of # / without the need for # 不需要
 4. naively 盲目地
 5. & is non-trivial task 并不是不重要的任务/不平凡的
-6. It should be noted that 需要注意的是
+6. It should be noted/remarked that 需要注意的是
 7. It should not be neglected that 不可忽略的是
 8. Nonetheless 尽管如此
 9. has no need to do 没必要
 10. neglectable / ignorable / negligible 可忽略的
-11. novel = innovate = creative 新颖的
+11. novel = innovative = creative 新颖的
 12. Nevertheless 然而
 13. keep a notion of # 保持#的见解
-14. noticeable 显而易见的，值得注意的
-15. nomenclature 命名法
+14. nomenclature 命名法
 
 ## O
 1.  originate from / stems from 源于
@@ -494,6 +526,7 @@
 10. object instance 个体
 11. opt for # 选择
 12. overlook (the following problems) 忽视
+13. occlusion (行人的)遮挡
 
 ## P
 1. pronounced  明显的，显著的
@@ -552,6 +585,12 @@
 50. & have proven to be successful &被证明是成功的
 51. & can be prohibitive for # (many applications) & 不能用于
 52. Pipeline = approach = method 途径、方法
+52. practical / feasible / viable 可行的、实际的
+53. pertinent 中肯的、相关的、切题的
+54. primitive 原始的、简单的
+55. percept # 认知、感知
+56. From the #(science) perspective, 从#角度来讲
+57. require # to be known a priori 需要知道#作为先验
 
 ## Q
 1. quantify 量化
@@ -596,7 +635,7 @@
 32. redundancy 过剩,冗余
 33. reliable 可靠的
 34. relevant = related (study) 相关的
-35. with respect to (w.r.t.) 对于
+35. with respect to / with relevance to (w.r.t.) 对于,关于
 36. retain 保持，记住 vt
     preserve 保留，保存
 37. refine 改善，精炼
@@ -612,13 +651,15 @@
 45. & remain  unresolved 依然未解决
 46. brief review 简要的回顾
 47. rotational motion 旋转运动
-48. Referring to Fig. 2, & do 参考Fig2 (=As illustrated/shown/depicted in Fig. 2)
+48. Referring to Fig. 2, & do 参考Fig2 (=As (schematically)  illustrated/shown/depicted/demonstrated in Fig. 2)
 49. it runs at 40.2 FPS on a NVIDIA Titan X GPU with the input sizes 320 × 320 in inference 推理时间
 50. & required in # 被#需要的&
+    require & to do #
 51. it is unrealistic to do # 做#不现实
 52. relegate & as # 把&归类为#
 53. (dramatically) revolutionize # 彻底改革#
 54. relation of # to & #和&的关系
+55. More remarkably, 更显著/明显地
 
 ## S
 1. the method **struggles** with sth / to do sth 表现不好
@@ -649,10 +690,11 @@
 25. significant amount of #(space) 大量的
 26. strike a balance between & and # 达到/获得平衡
 27. substantially 本质上
-28. schematically 示意性地 (As schematically shown in Fig)
+28. schematically 示意性地 (As schematically shown/illustrated in Fig)
 29. be set as (参数)被设置为
 30. striking 显著的，突出的，引人注意的
 32. taken significant steps in #  在#方面走出了重要一步
+    & is  an essential step towards # 是关键的一步
 33. solution to # #的解决方案
 34. it is sufficient to do ...足够
 35. seek # 寻求
@@ -671,7 +713,7 @@
 49. spatiotemporal / spatio-temporal 时空的
 50. straightforward 简单易懂的，直接的，明确地
 51. subsequently 紧接着, 接下来
-52. In short,  简单说(引出总结)
+52. In short,/  In brief, / Simply put,  简单说(引出总结)
 53. only slightly better than # 仅仅比#好一点（可跟在名词后修饰）
 54. be specialized for 专门为
 55. application scenarios 应用场景
@@ -687,6 +729,16 @@
 66. & **see modest/big/significant** improvements (in accuracy) 取得了有限/重大的进步
 67. side 一方面的 e.g., & predict semantic attribute as a side task.
 68. be spread-out in time 在时间上展开的
+69. stealth 鱼的低扰动性 n.
+70. Since then, & do 从那以后
+71. be subdivided into 细分为
+72. & is often seen in # &常常在#中见到
+73. shed light on # 阐明，说清楚
+74. sway(v.) head yawing/swing(n.) (鱼头的)摇晃
+75. & **suffer** drawbacks 存在缺点
+76. More seriously, 更严重地
+77. there is a long way to do (be used in real-world applications) 还有很长一段路
+78. In this sense, 从这个意义上来说
 
 ## T
 1. & has tendency to do / & tend to do 有趋势
@@ -719,12 +771,14 @@
 22. tedious 乏味的
 23. throughout (the video) 贯穿、遍及、从始至终、到处 prep.
 24. tradeoff parameters 需要权衡的参数
+25. & be traced back to # 追溯到#
+26. & tardily responds to # 对#的反应缓慢
 
 ## U
 1. an **upstroke** phase 上行程
 2. unrivaled 无与伦比的
 3. unit vector 单位向量
-4. ultimately 最终地
+4. ultimately 最终地，基本上
 5. ubiquitous 普遍的/无处不在的
 6. untethered 不受约束的
 7. ..., with little understanding of # 对#的理解较少
@@ -732,7 +786,8 @@
 9. ubiquitous 普遍存在的，无处不在的
 10. underlying reason 潜在的原因
 11. Up-to-date (approach) 最新的、最近的
-12. undergo/encounter # 经历、遭遇#
+12. undergo/encounter/ # 经历、遭遇#
+13. Undoubtedly,  毫无疑问地
 
 
 ## V
@@ -743,17 +798,19 @@
 4. vice versa 反之亦然
 5. spatial vicinity (空间上)周边的区域
 6. variational 变化性的
-7. & have been **vigorously** studied (in the last two years) &是(近来的)研究热点
+7. & have been **vigorously/widely** studied (in the last two years) for # &是(近来的)研究热点
 8. a (wide) variety of 各种各样的
 9. and vice versa 反之亦然
 10. be viewed as 被视作
-11. visibly， evidently 显然，明显地 be evidenced(v.) to be
+11. visibly， evidently， Apparently 显然，明显地 be evidenced(v.) to be
 12. unveil (more details) 揭示
 13. vignetting 渐晕的
 14. practice/test venue 演练场地
 15. be vulnerable to # 在#方面易受伤的，
 16. is (most valid) for # 适用于，对#有效
 17. versatile (algorithm) 多才多艺的
+18. vary from & to # 变化
+19. By virtue of 凭借
 
 ## W
 1. it is worthwhile to do 值得做
@@ -764,6 +821,9 @@
 5. & without considering the influence of # <名词短语>未考虑到#的&
    & ignoring #
 6. Without loss of generality, as an example [of #/to do #], we ... 不失一般性地
+7. Whichever 无论哪一种
+8. widespread 普遍地，广泛地 (a very widespread method is to do)
+9. a wide range of #(augmentability and applicability) 广泛的
 
 ## X
 ## Y

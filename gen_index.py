@@ -5,7 +5,7 @@ import re
 import platform
 
 # 需要忽略的文件或者文件夹的名字
-ignore_names = ['.git', 'index.md']
+ignore_names = ['.git', 'README.md']
 
 def CheckIgnore(path):
     abs_path = os.path.abspath(path)
@@ -156,7 +156,7 @@ class IndexGenerator(object):
 
 def main():
     generator = IndexGenerator('.')
-    generator.generate('index.md')
+    generator.generate('README.md')
 
 if __name__ == '__main__':
     main()

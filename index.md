@@ -15,6 +15,7 @@
 - [soft_nms](./Detection/soft_nms.md)
 - [SSD](./Detection/SSD.md)
 - [YOLO](./Detection/YOLO.md)
+- [YOLOv3](./Detection/YOLOv3.md)
 - [Zero-Shot_Detection](./Detection/Zero-Shot_Detection.md)
 - [[BPN]_Single-Shot_Bidirectional_Pyramid_Networks_for_High-Quality_Object_Detection](./Detection/[BPN]_Single-Shot_Bidirectional_Pyramid_Networks_for_High-Quality_Object_Detection.md)
 - [[M-FRCNN]Object_Detection_with_Mask-based_Feature_Encoding](./Detection/[M-FRCNN]Object_Detection_with_Mask-based_Feature_Encoding.md)
@@ -38,23 +39,45 @@
 
 ## Segmentation
 
+- [Dynamic_Video_Segmentation_Network](./Segmentation/Dynamic_Video_Segmentation_Network.md)
+- [Primary_Video_Object_Segmentation_via_Complementary_CNNs_and_Neighborhood_Reversible_Flow](./Segmentation/Primary_Video_Object_Segmentation_via_Complementary_CNNs_and_Neighborhood_Reversible_Flow.md)
 - [Video_Object_Segmentation_with_Language_Referring_Expressions](./Segmentation/Video_Object_Segmentation_with_Language_Referring_Expressions.md)
+
+## SeqGenerating
+
+- [AboutGAN](./SeqGenerating/AboutGAN.md)
 
 ## ToBeContinued
 
 - [Attention-GAN_for_Object_Transfiguration_in_Wild_Images](./ToBeContinued/Attention-GAN_for_Object_Transfiguration_in_Wild_Images.md)
 - [A_Cascaded_Convolutional_Neural_Network_for_Single_Image_Dehazing](./ToBeContinued/A_Cascaded_Convolutional_Neural_Network_for_Single_Image_Dehazing.md)
+- [Bringing_Alive_Blurred_Moments](./ToBeContinued/Bringing_Alive_Blurred_Moments.md)
+- [Deep_Generative_Image_Models_using_a_Laplacian_Pyramid_of_Adversarial_Networks](./ToBeContinued/Deep_Generative_Image_Models_using_a_Laplacian_Pyramid_of_Adversarial_Networks.md)
+- [Deep_multi-scale_video_prediction_beyond_mean_square_error](./ToBeContinued/Deep_multi-scale_video_prediction_beyond_mean_square_error.md)
+- [Generating_images_with_recurrent_adversarial_networks](./ToBeContinued/Generating_images_with_recurrent_adversarial_networks.md)
+- [Generating_Videos_with_Scene_Dynamics](./ToBeContinued/Generating_Videos_with_Scene_Dynamics.md)
+- [Learning_a_Similarity_Metric_Discriminatively_with_Application_to_Face_Verification](./ToBeContinued/Learning_a_Similarity_Metric_Discriminatively_with_Application_to_Face_Verification.md)
+- [Mix_and_match_networks_encoder-decoder_alignment_for_zero-pair_image_translation](./ToBeContinued/Mix_and_match_networks_encoder-decoder_alignment_for_zero-pair_image_translation.md)
+- [Robust_LSTM-Autoencoders_for_Face_De-Occlusion_in_the_Wild](./ToBeContinued/Robust_LSTM-Autoencoders_for_Face_De-Occlusion_in_the_Wild.md)
+- [Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction](./ToBeContinued/Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction.md)
+- [[C-RNN-GAN]_Continuous_recurrent_neural_networks_with_adversarial_training](./ToBeContinued/[C-RNN-GAN]_Continuous_recurrent_neural_networks_with_adversarial_training.md)
+- [[DBLRGAN]_Adversarial_Spatio-Temporal_Learning_for_Video_Deblurring](./ToBeContinued/[DBLRGAN]_Adversarial_Spatio-Temporal_Learning_for_Video_Deblurring.md)
+- [[MoCoGAN]_Decomposing_Motion_and_Content_for_Video_Generation](./ToBeContinued/[MoCoGAN]_Decomposing_Motion_and_Content_for_Video_Generation.md)
+- [[S-LSTM-GAN]_Shared_recurrent_neural_networks_with_adversarial_training](./ToBeContinued/[S-LSTM-GAN]_Shared_recurrent_neural_networks_with_adversarial_training.md)
+- [[SeqGAN]_Sequence_Generative_Adversarial_Nets_with_Policy_Gradient](./ToBeContinued/[SeqGAN]_Sequence_Generative_Adversarial_Nets_with_Policy_Gradient.md)
 
 ## Tracking
 
 - [Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos](./Tracking/Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.md)
 - [Learning_Dynamic_Memory_Networks_for_Object_Tracking](./Tracking/Learning_Dynamic_Memory_Networks_for_Object_Tracking.md)
+- [Learning_to_Track_Online_Multi-Object_Tracking_by_Decision_Making](./Tracking/Learning_to_Track_Online_Multi-Object_Tracking_by_Decision_Making.md)
 - [Re3_Real-Time_Recurrent_Regression_Networks_for_Visual_Tracking_of_Generic_Objects](./Tracking/Re3_Real-Time_Recurrent_Regression_Networks_for_Visual_Tracking_of_Generic_Objects.md)
 - [[ADN]_Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning](./Tracking/[ADN]_Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning.md)
 - [[ROLO]_Spatially_Supervised_Recurrent_Convolutional_Neural_Networks_for_Visual_Object_Tracking](./Tracking/[ROLO]_Spatially_Supervised_Recurrent_Convolutional_Neural_Networks_for_Visual_Object_Tracking.md)
 
 ## VideoDetection
 
+- [End-to-End_Detection_and_Re-identification_Integrated_Net_for_Person_Search](./VideoDetection/End-to-End_Detection_and_Re-identification_Integrated_Net_for_Person_Search.md)
 - [Object_Detection_in_Videos_by_Short_and_Long_Range_Object_Linking](./VideoDetection/Object_Detection_in_Videos_by_Short_and_Long_Range_Object_Linking.md)
 - [On_The_Stability_of_Video_Detection_and_Tracking](./VideoDetection/On_The_Stability_of_Video_Detection_and_Tracking.md)
 - [Recurrent_Neural_Network_Regularization](./VideoDetection/Recurrent_Neural_Network_Regularization.md)
@@ -67,6 +90,7 @@
 - [[ClosedLoop]_Spatio-Temporal_Closed-Loop_Object_Detection](./VideoDetection/[ClosedLoop]_Spatio-Temporal_Closed-Loop_Object_Detection.md)
 - [[D&T]_Detect_to_Track_and_Track_to_Detect](./VideoDetection/[D&T]_Detect_to_Track_and_Track_to_Detect.md)
 - [[DuATM]_Dual_Attention_Matching_Network_for_Context-Aware_Feature_Sequence_based_Person_Re-Identification](./VideoDetection/[DuATM]_Dual_Attention_Matching_Network_for_Context-Aware_Feature_Sequence_based_Person_Re-Identification.md)
+- [[MGN]_Learning_Discriminative_Features_with_Multiple_Granularities_for_Person_ReID](./VideoDetection/[MGN]_Learning_Discriminative_Features_with_Multiple_Granularities_for_Person_ReID.md)
 - [[RAM]_Recurrent_Models_of_Visual_Attention](./VideoDetection/[RAM]_Recurrent_Models_of_Visual_Attention.md)
 - [[Re-id]_An_Improved_Deep_Learning_Architecture_for_Person_Re-Identification](./VideoDetection/[Re-id]_An_Improved_Deep_Learning_Architecture_for_Person_Re-Identification.md)
 - [[ResAtt]_Residual_Attention_Network_for_Image_Classification](./VideoDetection/[ResAtt]_Residual_Attention_Network_for_Image_Classification.md)

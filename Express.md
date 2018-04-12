@@ -42,7 +42,6 @@
 4. be analogous to 相似
 5. Alternatively, 选择性地
    we explore an alternative way of doing 开发了一种可选择的方法
-6. &(The method) attempts to do 企图
 7. attractive 有吸引力的
 8. ability **to** do # 做#的能力
 9. **account for** # 解释
@@ -58,7 +57,10 @@
 19. access # 取得，获取
 19. (holistically) assess/evaluate # (整体地)评估
 20. For &, in addition to do #, it can do # 对于&，它除了能#，还能#
-21. made **attempts** to do 尝试做
+21. &(The method) made **attempts** to do 尝试做
+    &(The method) attempt to do 尝试
+    sb. attempted #(several methodologies) to do
+    sb. do & in an attempt to do # 目的是、为了
 22. address # 解决
 23. applicability 适用性
 24. According to the authors’ knowledge = To our knowledge =  
@@ -75,7 +77,6 @@
 32. take account of 考虑到
 33. advocates #/that 提倡
 34. be attenuated exponentially 指数式地衰减
-35. attempt to do 尝试
 36. ally & with/to # 联合、结合
 37. aim(n.) take aim at somebody/something / aim of sth / with the aim of doing something
     (v.) aim to do
@@ -90,16 +91,16 @@
 47. analytical / analytically 分析的/地, 解析的
 48. applicable range 应用范围
 49. auxiliary 辅助的
-50. do & in an attempt to do # 目的是、为了
 51. in accord with # 符合
 52. agilely 灵活地
 53. After all 毕竟、终究
 54. & be advancing at a rapid pace &正在迅速发展
 55. attribute & to # 把&归因于#
+56. akin 类似的
 
 ## B
 1. binocular(ly) 双目的
-2. Because of these, 由于
+2. Because of these, / On account of 由于
 3. backbone 骨架
 4. bottleneck 瓶颈
 5. breakthrough(s) 突破
@@ -145,7 +146,7 @@
 12.  designed the concept of 设计了一种概念
 13.  & be composed of # and # &由#组成
 14.  consecutive frames 连续的帧
-15.  be contrary to / On the contrary / Conversely 相反
+15.  be contrary to / On the contrary / Conversely / Inversely相反
 16.  competitive 有竞争力的
      achieves an overall competitive performance 整体有竞争力的
      performs favorably against state-of-the-art methods while possessing real-time speed of 50 fps.
@@ -201,6 +202,9 @@
 61. (un)conventional (非)传统的
 62. computationally efficient / computationally (in)expensive 计算量小的/大的
     computational cost(s) 计算量
+    time cost will grow surprisingly high 计算时间会很高
+    impractical execution time 不实际的执行时间
+    & can potentially be a waste of time &是很浪费时间的
 63. be certain that 确信，有把握
 64. compensate for 补偿、弥补
 65. contributes more to # 对#贡献更多
@@ -219,6 +223,7 @@
 77. conjecture 推测
 78. We choose # for concreteness. Our method is applicable to other architectures. 选择#作为具体案例，也可用于其他架构
 79. is characterized by # 有#特点、特征
+80. be confronted with 面临
 
 ## D
 1. a **downstroke** phase 下行程
@@ -241,6 +246,7 @@
      be deemed to be #
      be deemed to do #
      it is imperative to do/that 必要的/势在必行的
+     & is becoming urgently necessary 迫切需要
 18. draw/take inspiration from 启发
 19. design # specially tailored for (doing) 为...特制的/专门设计
 20. deficient 缺乏的， 不足的
@@ -275,6 +281,7 @@
 44. (key) deficiency / drawback / shortage 缺点
 43. differentiate between A and B 区分 vt.
 44. There is no denying that 不可否认的是
+45. distractor 干扰选项，错误答案
 
 ## E
 1. in exposures of 暴露
@@ -393,6 +400,7 @@
 3. induces 引起
 4. the intent is to do 目的是
 5. (at any) time instant 时间片
+   timestamp(s) 时间点
 6. the study of # is still in infancy 还不成熟
 7. imagery (光学形成的)像
 8. intrinsic parameters 内参数
@@ -527,6 +535,7 @@
 11. opt for # 选择
 12. overlook (the following problems) 忽视
 13. occlusion (行人的)遮挡
+14. out of operation 不起作用
 
 ## P
 1. pronounced  明显的，显著的
@@ -549,6 +558,7 @@
 16. promising advantages 潜在的优点
 17. for the purpose of # 为了#目的
     for the sake of #
+    & is primarily targeted at # 目标/目的是
 18. & be performed on # &(某种性能)被#表现出来
 19. (critically) progressive 进步的
 20. preliminary 初步的
@@ -585,7 +595,7 @@
 50. & have proven to be successful &被证明是成功的
 51. & can be prohibitive for # (many applications) & 不能用于
 52. Pipeline = approach = method 途径、方法
-52. practical / feasible / viable 可行的、实际的
+52. practical / feasible / viable / actually 可行的、实际的
 53. pertinent 中肯的、相关的、切题的
 54. primitive 原始的、简单的
 55. percept # 认知、感知
@@ -619,6 +629,7 @@
 18. remedy 补救
 19. In reality, ... 实际上
     Indeed, ...
+    actually
 20. reveal # 显示出
 21. the main reasons is for # 主要原因是#
 22. be responsible for # 负责/承担
@@ -713,7 +724,7 @@
 49. spatiotemporal / spatio-temporal 时空的
 50. straightforward 简单易懂的，直接的，明确地
 51. subsequently 紧接着, 接下来
-52. In short,/  In brief, / Simply put,  简单说(引出总结)
+52. In short,/  In brief, / Simply put,  简单说(引出总结)，简而言之
 53. only slightly better than # 仅仅比#好一点（可跟在名词后修饰）
 54. be specialized for 专门为
 55. application scenarios 应用场景
@@ -739,6 +750,7 @@
 76. More seriously, 更严重地
 77. there is a long way to do (be used in real-world applications) 还有很长一段路
 78. In this sense, 从这个意义上来说
+79. (see Fig. 4) 见图4(一般写在括号里)
 
 ## T
 1. & has tendency to do / & tend to do 有趋势

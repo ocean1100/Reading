@@ -3,4 +3,4 @@
 
 ## Temporal Attention Model
 ![ATW](./.assets/ATW.jpg)
-Attention的算法与[Dynamic_memory](../5_Tracking/Dynamic_memory.md)类似
+Attention的算法与[Dynamic_memory](../Tracking/Learning_Dynamic_Memory_Networks_for_Object_Tracking.md)类似

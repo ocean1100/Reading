@@ -47,12 +47,21 @@ This is my reading notes, some of which are comprehensive and some are brief. In
 ## SeqGenerating
 
 - [AboutGAN](./SeqGenerating/AboutGAN.md)
+- [Auto-Directed_Video_Stabilization_with_Robust_L1_Optimal_Camera_Paths](./SeqGenerating/Auto-Directed_Video_Stabilization_with_Robust_L1_Optimal_Camera_Paths.md)
+- [A_Fast_Orientation_Estimation_Approach_of_Natural_Images](./SeqGenerating/A_Fast_Orientation_Estimation_Approach_of_Natural_Images.md)
+- [Deep_video_deblurring](./SeqGenerating/Deep_video_deblurring.md)
+- [[CodingFlow]_Enable_Video_Coding_for_Video_Stabilization](./SeqGenerating/[CodingFlow]_Enable_Video_Coding_for_Video_Stabilization.md)
+- [[DBLRGAN]_Adversarial_Spatio-Temporal_Learning_for_Video_Deblurring](./SeqGenerating/[DBLRGAN]_Adversarial_Spatio-Temporal_Learning_for_Video_Deblurring.md)
+- [[SeqGAN]_Sequence_Generative_Adversarial_Nets_with_Policy_Gradient](./SeqGenerating/[SeqGAN]_Sequence_Generative_Adversarial_Nets_with_Policy_Gradient.md)
+- [[SteadyFlow]_Spatially_Smooth_Optical_Flow_for_Video_Stabilization](./SeqGenerating/[SteadyFlow]_Spatially_Smooth_Optical_Flow_for_Video_Stabilization.md)
 
 ## ToBeContinued
 
 - [Attention-GAN_for_Object_Transfiguration_in_Wild_Images](./ToBeContinued/Attention-GAN_for_Object_Transfiguration_in_Wild_Images.md)
 - [A_Cascaded_Convolutional_Neural_Network_for_Single_Image_Dehazing](./ToBeContinued/A_Cascaded_Convolutional_Neural_Network_for_Single_Image_Dehazing.md)
 - [Bringing_Alive_Blurred_Moments](./ToBeContinued/Bringing_Alive_Blurred_Moments.md)
+- [Calibration-Free_Rolling_Shutter_Removal](./ToBeContinued/Calibration-Free_Rolling_Shutter_Removal.md)
+- [Content-Preserving_Warps_for_3D_Video_Stabilization](./ToBeContinued/Content-Preserving_Warps_for_3D_Video_Stabilization.md)
 - [Deep_Generative_Image_Models_using_a_Laplacian_Pyramid_of_Adversarial_Networks](./ToBeContinued/Deep_Generative_Image_Models_using_a_Laplacian_Pyramid_of_Adversarial_Networks.md)
 - [Deep_multi-scale_video_prediction_beyond_mean_square_error](./ToBeContinued/Deep_multi-scale_video_prediction_beyond_mean_square_error.md)
 - [Generating_images_with_recurrent_adversarial_networks](./ToBeContinued/Generating_images_with_recurrent_adversarial_networks.md)
@@ -60,12 +69,12 @@ This is my reading notes, some of which are comprehensive and some are brief. In
 - [Learning_a_Similarity_Metric_Discriminatively_with_Application_to_Face_Verification](./ToBeContinued/Learning_a_Similarity_Metric_Discriminatively_with_Application_to_Face_Verification.md)
 - [Mix_and_match_networks_encoder-decoder_alignment_for_zero-pair_image_translation](./ToBeContinued/Mix_and_match_networks_encoder-decoder_alignment_for_zero-pair_image_translation.md)
 - [Robust_LSTM-Autoencoders_for_Face_De-Occlusion_in_the_Wild](./ToBeContinued/Robust_LSTM-Autoencoders_for_Face_De-Occlusion_in_the_Wild.md)
+- [Spatially_and_Temporally_Optimized_Video_Stabilization](./ToBeContinued/Spatially_and_Temporally_Optimized_Video_Stabilization.md)
 - [Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction](./ToBeContinued/Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction.md)
+- [Video_stabilization_with_L1–L2_optimization](./ToBeContinued/Video_stabilization_with_L1–L2_optimization.md)
 - [[C-RNN-GAN]_Continuous_recurrent_neural_networks_with_adversarial_training](./ToBeContinued/[C-RNN-GAN]_Continuous_recurrent_neural_networks_with_adversarial_training.md)
-- [[DBLRGAN]_Adversarial_Spatio-Temporal_Learning_for_Video_Deblurring](./ToBeContinued/[DBLRGAN]_Adversarial_Spatio-Temporal_Learning_for_Video_Deblurring.md)
 - [[MoCoGAN]_Decomposing_Motion_and_Content_for_Video_Generation](./ToBeContinued/[MoCoGAN]_Decomposing_Motion_and_Content_for_Video_Generation.md)
 - [[S-LSTM-GAN]_Shared_recurrent_neural_networks_with_adversarial_training](./ToBeContinued/[S-LSTM-GAN]_Shared_recurrent_neural_networks_with_adversarial_training.md)
-- [[SeqGAN]_Sequence_Generative_Adversarial_Nets_with_Policy_Gradient](./ToBeContinued/[SeqGAN]_Sequence_Generative_Adversarial_Nets_with_Policy_Gradient.md)
 
 ## Tracking
 

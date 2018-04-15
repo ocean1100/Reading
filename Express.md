@@ -97,6 +97,10 @@
 54. & be advancing at a rapid pace &正在迅速发展
 55. attribute & to # 把&归因于#
 56. akin 类似的
+57. aggregate (multi-image)
+    (multi-image) aggregation 聚合、聚集
+58. artifact(s) 人为的痕迹(形容图像处理后产生的奇怪东西)
+59. Without the aid of #, ... 没有来自#的帮助，
 
 ## B
 1. binocular(ly) 双目的
@@ -130,6 +134,7 @@
 24. & is beneficial in doing # 对#有益处、好处
 25. buoy 浮标
 26. ... , especially in the background of #, ... 尤其是在#背景下
+27. & **bypass(es)** (the difficulty of #) 绕过
 
 ## C
 1. be **crucial/key** to (doing) # 对#起决定性作用/ 关键
@@ -153,7 +158,7 @@
 17. a carefully crafted design 精心的设计
 18. most critically 最关键地（用于句首）
 19. come with 具有 (this simple solution comes with two major drawbacks)
-20. when it comes to # / in terms of # / As for # / Concerning # / As far as # is concerned  就#而言
+20. when it comes to # / in terms of # / As for # / Concerning # / As far as # is concerned / In case of #  就#而言
 21. comprehensive 综合的
 22. & is of crucial importance &是很重要的
 23. (its deeper/shallower) counterpart 版本
@@ -282,6 +287,7 @@
 43. differentiate between A and B 区分 vt.
 44. There is no denying that 不可否认的是
 45. distractor 干扰选项，错误答案
+46. is dominated by # 被#主导
 
 ## E
 1. in exposures of 暴露
@@ -367,6 +373,7 @@
 32. Formally, 形式上
 33. video footage/snippet 视频片段
 34. fictitious 虚构的，假想的
+35. fragile / brittle 易碎的(用于形容某方法不能用于复杂场景、适应能力不强、不稳定etc.)
 
 ## G
 1. generic 一般的
@@ -393,12 +400,12 @@
 13. likeliness 可能性
 14. harsh 严厉的，粗糙的
 15. heuristic 启发式的
+16. this assumption does not always hold. 假设不成立
 
 ## I
 1. introduce A to B 把A引入到B
 2. implicitly 隐含地
 3. induces 引起
-4. the intent is to do 目的是
 5. (at any) time instant 时间片
    timestamp(s) 时间点
 6. the study of # is still in infancy 还不成熟
@@ -419,7 +426,7 @@
     The intuition here is that
 20. For instance, . For example + 句子 / , e.g., + 名词 / like + 名词 例如
 21. incompleteness 不完整性
-22. be identical/consistent with // be in accordance with 一致
+22. be identical/consistent with / be in accordance with / coincide with 一致
     In accordance with #, & do
 23. It implies that 表明
 24. imagine 设想 vt
@@ -461,6 +468,7 @@
 ## J
 1. jointly 连带地
 2. jitter (bounding boxes / its coordinates) 抖动 vt
+   high frequency jitter of camera
 
 ## K
 
@@ -516,7 +524,7 @@
 9. has no need to do 没必要
 10. neglectable / ignorable / negligible 可忽略的
 11. novel = innovative = creative 新颖的
-12. Nevertheless 然而
+12. Nevertheless 然而 (代替However)
 13. keep a notion of # 保持#的见解
 14. nomenclature 命名法
 
@@ -559,6 +567,9 @@
 17. for the purpose of # 为了#目的
     for the sake of #
     & is primarily targeted at # 目标/目的是
+    the intent is to do 目的是
+    We seek to do 寻求
+    The objective of # is to 目标/目的是
 18. & be performed on # &(某种性能)被#表现出来
 19. (critically) progressive 进步的
 20. preliminary 初步的
@@ -601,6 +612,7 @@
 55. percept # 认知、感知
 56. From the #(science) perspective, 从#角度来讲
 57. require # to be known a priori 需要知道#作为先验
+    a priori knowledge of image is required 需要一些先验知识
 
 ## Q
 1. quantify 量化
@@ -671,6 +683,7 @@
 53. (dramatically) revolutionize # 彻底改革#
 54. relation of # to & #和&的关系
 55. More remarkably, 更显著/明显地
+    remarkable 明显的
 
 ## S
 1. the method **struggles** with sth / to do sth 表现不好
@@ -743,7 +756,6 @@
 69. stealth 鱼的低扰动性 n.
 70. Since then, & do 从那以后
 71. be subdivided into 细分为
-72. & is often seen in # &常常在#中见到
 73. shed light on # 阐明，说清楚
 74. sway(v.) head yawing/swing(n.) (鱼头的)摇晃
 75. & **suffer** drawbacks 存在缺点
@@ -751,6 +763,11 @@
 77. there is a long way to do (be used in real-world applications) 还有很长一段路
 78. In this sense, 从这个意义上来说
 79. (see Fig. 4) 见图4(一般写在括号里)
+    ..., see [47] for a recent survey 见[47] (作为从句)
+    From Fig. 3, it is seen that 可以看出
+    & is often seen in # &常常在#中见到
+80. video stabilization 视频稳定
+81. rational 合理的
 
 ## T
 1. & has tendency to do / & tend to do 有趋势
@@ -780,7 +797,7 @@
     temporal smoothness 时序上平滑
     temporal interdependency between 时序的相关性
 21. is rarely tackled 还未被解决
-22. tedious 乏味的
+22. tedious 乏味的、冗长的
 23. throughout (the video) 贯穿、遍及、从始至终、到处 prep.
 24. tradeoff parameters 需要权衡的参数
 25. & be traced back to # 追溯到#

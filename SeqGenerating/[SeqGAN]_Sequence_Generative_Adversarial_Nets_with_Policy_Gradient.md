@@ -54,3 +54,7 @@ $$D_\phi(Y_{1:T})$$
     D_\phi(Y_{1:t})\quad \text{for} \quad t=T
     \end{array} $$
     ![train_seqGAN](./.assets/train_seqGAN.jpg)
+
+## Learned
+强化学习: G是actor，已生成序列为state，D产生reward(整个序列的)
+蒙特卡洛搜索: 序列未完全生成时，用于补足成完整序列，给D产生reward

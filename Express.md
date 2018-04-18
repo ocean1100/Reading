@@ -103,6 +103,7 @@
 58. artifact(s) 人为的痕迹(形容图像处理后产生的奇怪东西)
 59. Without the aid of #, ... 没有来自#的帮助
 60.  be absent in #(the existing video generation frameworks) 缺席，还没有
+61. allow & to do # 允许/使得&(可以)做
 
 ## B
 1. binocular(ly) 双目的
@@ -229,7 +230,7 @@
 78. We choose # for concreteness. Our method is applicable to other architectures. 选择#作为具体案例，也可用于其他架构
 79. is characterized by # 有#特点、特征
 80. be confronted with 面临
-81. &(a generative model) conditioned on #(the past frames) 以#为条件的&
+81. &(a generative model) be conditioned on #(the past frames) 以#为条件的&
 
 ## D
 1. a **downstroke** phase 下行程
@@ -284,7 +285,7 @@
 41. have difficulty doing # 做#有困难
 42. devise 设计
 43. are diverse from each other 各不相同，不同
-44. (key) deficiency / drawback / shortage 缺点
+44. (key) deficiency / drawback / shortage / flaw 缺点
 43. differentiate between A and B 区分 vt.
 44. There is no denying that 不可否认的是
 45. distractor 干扰选项，错误答案
@@ -650,6 +651,7 @@
 21. the main reasons is for # 主要原因是#
 22. be responsible for # 负责/承担
     undertake #
+    account for #
 23. reasonable 合理的
 24. reason about # 推理，思考
 25. with respect to # / regarding 至于、关于、就...而言
@@ -748,7 +750,7 @@
 56. there has been a surge in doing # 有#的浪潮
 57. sequential modeling capability 序列建模能力
 58. Suppose # do (直接引导从句), & do 假设#...则&
-    sb hypothesize that 假设
+    sb hypothesize/postulate that 假设
 60. & has a significant impact on # 有重大影响
 61. & showcase (the performance capabilities of # ) 展示了
 62. Subsequently 接着，随后

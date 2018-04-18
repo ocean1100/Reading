@@ -57,6 +57,7 @@
 19. access # 取得，获取
 19. (holistically) assess/evaluate # (整体地)评估
 20. For &, in addition to do #, it can do # 对于&，它除了能#，还能#
+    & do # in addition to do ## &做...还要做...
 21. &(The method) made **attempts** to do 尝试做
     &(The method) attempt to do 尝试
     sb. attempted #(several methodologies) to do
@@ -100,7 +101,8 @@
 57. aggregate (multi-image)
     (multi-image) aggregation 聚合、聚集
 58. artifact(s) 人为的痕迹(形容图像处理后产生的奇怪东西)
-59. Without the aid of #, ... 没有来自#的帮助，
+59. Without the aid of #, ... 没有来自#的帮助
+60.  be absent in #(the existing video generation frameworks) 缺席，还没有
 
 ## B
 1. binocular(ly) 双目的
@@ -150,7 +152,7 @@
 11.  For convenience and brevity, 简便起见
 12.  designed the concept of 设计了一种概念
 13.  & be composed of # and # &由#组成
-14.  consecutive frames 连续的帧
+14.  (two) consecutive frames 连续的帧
 15.  be contrary to / On the contrary / Conversely / Inversely相反
 16.  competitive 有竞争力的
      achieves an overall competitive performance 整体有竞争力的
@@ -164,7 +166,6 @@
 23. (its deeper/shallower) counterpart 版本
 24. counterintuitive 反直觉的
 25. be capable of (doing) something = has capability of doing = be competent in doing = be/become capable to do 有能力
-26. two consecutive frames 连续的帧
 27. craft 工艺
     hand-crafted 人工设计的
 > [singular] the skills needed for a particular profession
@@ -196,7 +197,6 @@
 52. & consist of A,B,C &由ABC组成
 53. (the superiority of #) is confirmed 得到确认 / 被证实
 54. ... are not considered ...是未经仔细思考的
-55. consecutive frames 连续的帧
 56. combat this problem 对抗这个问题
 57. visually conspicuous 视觉上显眼的
 58. & is typically cast as a problem of # &被视为一个典型的问题
@@ -229,6 +229,7 @@
 78. We choose # for concreteness. Our method is applicable to other architectures. 选择#作为具体案例，也可用于其他架构
 79. is characterized by # 有#特点、特征
 80. be confronted with 面临
+81. &(a generative model) conditioned on #(the past frames) 以#为条件的&
 
 ## D
 1. a **downstroke** phase 下行程
@@ -341,7 +342,7 @@
 ## F
 1. following their example, 根据
 2. For ease of analysis and presentation, 为了简化分析和展示
-3. feasibility  可行性
+3. feasibility  可行性 utility 实用性
 4. superior color fidelity 优秀的颜色保真
 5. facilitate 帮助
 6. formulate &(problem) as # 看做
@@ -613,6 +614,8 @@
 56. From the #(science) perspective, 从#角度来讲
 57. require # to be known a priori 需要知道#作为先验
     a priori knowledge of image is required 需要一些先验知识
+59. & is problematic to # 在#方面有问题、不确定
+60. perceptible 可察觉的，可感知的，看得见的
 
 ## Q
 1. quantify 量化
@@ -629,6 +632,7 @@
 6. Methods relying on # 依赖于#的方法
 7. be closely/directly  related to 密切相关
 8. & has rarely published / there is no report about & 少有
+   there has been relatively little work extensively studying & 少有
 9. refraction of light / light refraction 折射
 10. refractive index (indices) 折射率
 11. refractive surface 折射面
@@ -744,6 +748,7 @@
 56. there has been a surge in doing # 有#的浪潮
 57. sequential modeling capability 序列建模能力
 58. Suppose # do (直接引导从句), & do 假设#...则&
+    sb hypothesize that 假设
 60. & has a significant impact on # 有重大影响
 61. & showcase (the performance capabilities of # ) 展示了
 62. Subsequently 接着，随后
@@ -802,6 +807,7 @@
 24. tradeoff parameters 需要权衡的参数
 25. & be traced back to # 追溯到#
 26. & tardily responds to # 对#的反应缓慢
+27. & turn out to be #(a highly challenging task) 结果是
 
 ## U
 1. an **upstroke** phase 上行程

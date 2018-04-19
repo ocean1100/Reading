@@ -24,6 +24,7 @@ This is my reading notes, some of which are comprehensive and some are brief. In
 
 ## Image2image
 
+- [Attention-GAN_for_Object_Transfiguration_in_Wild_Images](./Image2image/Attention-GAN_for_Object_Transfiguration_in_Wild_Images.md)
 - [DualGAN_Unsupervised_Dual_Learning_for_Image-to-Image_Translation](./Image2image/DualGAN_Unsupervised_Dual_Learning_for_Image-to-Image_Translation.md)
 - [WaterGAN_Unsupervised_Generative_Network_to_Enable_Real-time_Color_Correction_of_Monocular_Underwater_Images](./Image2image/WaterGAN_Unsupervised_Generative_Network_to_Enable_Real-time_Color_Correction_of_Monocular_Underwater_Images.md)
 - [[CGAN]_Conditional_Generative_Adversarial_Nets](./Image2image/[CGAN]_Conditional_Generative_Adversarial_Nets.md)
@@ -52,6 +53,7 @@ This is my reading notes, some of which are comprehensive and some are brief. In
 - [Deep_multi-scale_video_prediction_beyond_mean_square_error](./SeqGenerating/Deep_multi-scale_video_prediction_beyond_mean_square_error.md)
 - [Deep_video_deblurring](./SeqGenerating/Deep_video_deblurring.md)
 - [Generating_Videos_with_Scene_Dynamics](./SeqGenerating/Generating_Videos_with_Scene_Dynamics.md)
+- [Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction](./SeqGenerating/Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction.md)
 - [[C-RNN-GAN]_Continuous_recurrent_neural_networks_with_adversarial_training](./SeqGenerating/[C-RNN-GAN]_Continuous_recurrent_neural_networks_with_adversarial_training.md)
 - [[CodingFlow]_Enable_Video_Coding_for_Video_Stabilization](./SeqGenerating/[CodingFlow]_Enable_Video_Coding_for_Video_Stabilization.md)
 - [[DBLRGAN]_Adversarial_Spatio-Temporal_Learning_for_Video_Deblurring](./SeqGenerating/[DBLRGAN]_Adversarial_Spatio-Temporal_Learning_for_Video_Deblurring.md)
@@ -62,22 +64,16 @@ This is my reading notes, some of which are comprehensive and some are brief. In
 
 ## ToBeContinued
 
-- [Attention-GAN_for_Object_Transfiguration_in_Wild_Images](./ToBeContinued/Attention-GAN_for_Object_Transfiguration_in_Wild_Images.md)
 - [A_Cascaded_Convolutional_Neural_Network_for_Single_Image_Dehazing](./ToBeContinued/A_Cascaded_Convolutional_Neural_Network_for_Single_Image_Dehazing.md)
-- [Bringing_Alive_Blurred_Moments](./ToBeContinued/Bringing_Alive_Blurred_Moments.md)
-- [Calibration-Free_Rolling_Shutter_Removal](./ToBeContinued/Calibration-Free_Rolling_Shutter_Removal.md)
 - [Composable_Unpaired_Image_to_Image_Translation](./ToBeContinued/Composable_Unpaired_Image_to_Image_Translation.md)
 - [Concern](./ToBeContinued/Concern.md)
 - [Deep_Generative_Image_Models_using_a_Laplacian_Pyramid_of_Adversarial_Networks](./ToBeContinued/Deep_Generative_Image_Models_using_a_Laplacian_Pyramid_of_Adversarial_Networks.md)
 - [Generating_images_with_recurrent_adversarial_networks](./ToBeContinued/Generating_images_with_recurrent_adversarial_networks.md)
-- [Learning_a_Similarity_Metric_Discriminatively_with_Application_to_Face_Verification](./ToBeContinued/Learning_a_Similarity_Metric_Discriminatively_with_Application_to_Face_Verification.md)
 - [Mix_and_match_networks_encoder-decoder_alignment_for_zero-pair_image_translation](./ToBeContinued/Mix_and_match_networks_encoder-decoder_alignment_for_zero-pair_image_translation.md)
 - [Multimodal_Unsupervised_Image-to-Image_Translation](./ToBeContinued/Multimodal_Unsupervised_Image-to-Image_Translation.md)
-- [Robust_LSTM-Autoencoders_for_Face_De-Occlusion_in_the_Wild](./ToBeContinued/Robust_LSTM-Autoencoders_for_Face_De-Occlusion_in_the_Wild.md)
 - [Spatially_and_Temporally_Optimized_Video_Stabilization](./ToBeContinued/Spatially_and_Temporally_Optimized_Video_Stabilization.md)
 - [Towards_High_Performance_Video_Object_Detection_for_Mobiles](./ToBeContinued/Towards_High_Performance_Video_Object_Detection_for_Mobiles.md)
 - [Unsupervised_Image-to-Image_Translation_Networks](./ToBeContinued/Unsupervised_Image-to-Image_Translation_Networks.md)
-- [Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction](./ToBeContinued/Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction.md)
 - [[S-LSTM-GAN]_Shared_recurrent_neural_networks_with_adversarial_training](./ToBeContinued/[S-LSTM-GAN]_Shared_recurrent_neural_networks_with_adversarial_training.md)
 
 ## Tracking

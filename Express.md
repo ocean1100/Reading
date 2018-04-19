@@ -1,6 +1,4 @@
 # Express
-@(Related)
-
 
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 
@@ -271,7 +269,7 @@
 27. & be indistinguishable from # 不能被区分的
 28. distinctive 有特色的，与众不同的
 29. discern 辨别(vt.)
-30. discrepancy 差异
+30. discrepancy between & and # 差异
 31. desirable 可取的，值得拥有的
 32. diagram 示意图 Sketch 梗概/略图
 33. be devoted entirely to 致力于
@@ -572,6 +570,7 @@
     the intent is to do 目的是
     We seek to do 寻求
     The objective of # is to 目标/目的是
+    is meant to do/be 为了...
 18. & be performed on # &(某种性能)被#表现出来
 19. (critically) progressive 进步的
 20. preliminary 初步的

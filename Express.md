@@ -53,6 +53,7 @@
 17. & (is another useful framework) **apart from** # 除#之外（并列之意）
 18. augment & with # 用#来强化/扩大&
 19. access # 取得，获取
+    & be given access to # &可以获得#
 19. (holistically) assess/evaluate # (整体地)评估
 20. For &, in addition to do #, it can do # 对于&，它除了能#，还能#
     & do # in addition to do ## &做...还要做...
@@ -102,6 +103,7 @@
 59. Without the aid of #, ... 没有来自#的帮助
 60.  be absent in #(the existing video generation frameworks) 缺席，还没有
 61. allow & to do # 允许/使得&(可以)做
+62. assure (that) 确保
 
 ## B
 1. binocular(ly) 双目的
@@ -150,9 +152,10 @@
 10.  By contrast, / in contrast to # 相比之下,对比
 11.  For convenience and brevity, 简便起见
 12.  designed the concept of 设计了一种概念
-13.  & be composed of # and # &由#组成
+13.  & be composed/comprised of # and # &由#组成
+     & consist of A,B,C &由ABC组成
 14.  (two) consecutive frames 连续的帧
-15.  be contrary to / On the contrary / Conversely / Inversely相反
+15.  be contrary to / On the contrary / Conversely / Inversely 相反
 16.  competitive 有竞争力的
      achieves an overall competitive performance 整体有竞争力的
      performs favorably against state-of-the-art methods while possessing real-time speed of 50 fps.
@@ -193,7 +196,6 @@
 49. commonplace 普通的adj. 陈词滥调n.
 50. be comparable to/with 相当的，可比的，比得上的
 51. compile 收集
-52. & consist of A,B,C &由ABC组成
 53. (the superiority of #) is confirmed 得到确认 / 被证实
 54. ... are not considered ...是未经仔细思考的
 56. combat this problem 对抗这个问题
@@ -229,6 +231,10 @@
 79. is characterized by # 有#特点、特征
 80. be confronted with 面临
 81. &(a generative model) be conditioned on #(the past frames) 以#为条件的&
+82. weight clipping 参数钳制
+    clamp weights 钳制参数
+83. The costly work of doing 代价高的工作
+84. composite 复合的、合成的 adj，使合成 vt
 
 ## D
 1. a **downstroke** phase 下行程
@@ -337,6 +343,8 @@
 43. ever-growing interest in # 日益增长的#
 44. A great deal of effort has been made towards # 对于#已做了很多努力
 45. it is expected that 期望是
+46. extrapolate 推断，推测 vt
+    extrapolated 推测的
 
 ## F
 1. following their example, 根据
@@ -374,6 +382,11 @@
 33. video footage/snippet 视频片段
 34. fictitious 虚构的，假想的
 35. fragile / brittle 易碎的(用于形容某方法不能用于复杂场景、适应能力不强、不稳定etc.)
+36. in favour of doing 赞成，有好处(可用在名词后做定语，也可用在be后做表语)
+    An argument in favour of doing # 赞成#的论据
+    An argument against doing # 反对#的论据
+27. fix up # 改进、解决、修理
+28. feature / map / tensor /  representation 特征(形容conv的输出)
 
 ## G
 1. generic 一般的
@@ -401,13 +414,16 @@
 14. harsh 严厉的，粗糙的
 15. heuristic 启发式的
 16. this assumption does not always hold. 假设不成立
+17. & highlights the need for # 强调了#的必要性
 
 ## I
 1. introduce A to B 把A引入到B
 2. implicitly 隐含地
+   & imply that / It implies that 意味着、表明
 3. induces 引起
 5. (at any) time instant 时间片
    timestamp(s) 时间点
+   time series 时间序列
 6. the study of # is still in infancy 还不成熟
 7. imagery (光学形成的)像
 8. intrinsic parameters 内参数
@@ -426,9 +442,8 @@
     The intuition here is that
 20. For instance, . For example + 句子 / , e.g., + 名词 / like + 名词 例如
 21. incompleteness 不完整性
-22. be identical/consistent with / be in accordance with / coincide with 一致
-    In accordance with #, & do
-23. It implies that 表明
+22. be identical/consistent with // be in accordance with // coincide with // correspond to 一致
+    In accordance with #, & do (可形容&采取的方法和#保持一致)
 24. imagine 设想 vt
 25. induce = incur 引起
 26. be inspired by # 受#启发
@@ -464,6 +479,7 @@
 57. intractable 棘手的、难办的
 58. in-depth (investigation) 深入的
 59. insight(s) into #(developing innovative underwater vehicles) 对#的洞察
+60. & can be interpreted as # &可以被理解为#
 
 ## J
 1. jointly 连带地
@@ -471,6 +487,8 @@
    high frequency jitter of camera
 
 ## K
+1. It is known that 众说周知的是
+   As it is known that
 
 ## L
 1. lack # / be lacking in # / be short of # / # is lacking / for lack(want) of # / There lacks #
@@ -485,6 +503,7 @@
 8. There has been very limited published research in # #方面的研究有限
 9. be largely limited in # 很大程度被限制在#
 10. Likewise, # do 同样地
+11. we limit our attention to # 我们更加关注#
 
 ## M
 1. mostly 主要地
@@ -509,7 +528,7 @@
 19. merit(s) = advantage(s) 功绩、优点
 20. multifarious 多种多样的
 21. In the meantime = Meanwhile = simultaneously 同时
-
+22. unimodal / multimodal (distribution)单/多峰的(分布)
 
 ## N
 1. notably = noticeably 显著地，值得注意地
@@ -636,7 +655,7 @@
 9. refraction of light / light refraction 折射
 10. refractive index (indices) 折射率
 11. refractive surface 折射面
-12. To remedy this issue, / To address this dilemma,,  为了解决问题
+12. To remedy this issue, / To address this dilemma, / To deal with this problem 为了解决问题
 13. the role of # 作用
 14. (Several studies) be report on # (一些研究)用于调研/报告#相关的问题
 15. range from & down(up) to # 范围从&下(上)至#
@@ -676,11 +695,11 @@
 43. As reported in #, ... 根据#的报道
 44. raise，用作动词，意为“举起”、“升起”、“增加”、“饲养”等，在现代英语中，只用作及物动词，其后应有宾语或用于被动语态。
   rise 可用作名词
-45. & remain  unresolved 依然未解决
 46. brief review 简要的回顾
 47. rotational motion 旋转运动
 48. Referring to Fig. 2, & do 参考Fig2 (=As (schematically)  illustrated/shown/depicted/demonstrated in Fig. 2)
 49. it runs at 40.2 FPS on a NVIDIA Titan X GPU with the input sizes 320 × 320 in inference 推理时间
+& has a frame rate of 5fps on a GPU
 50. & required in # 被#需要的&
     require & to do #
 51. it is unrealistic to do # 做#不现实
@@ -774,6 +793,7 @@
     & is often seen in # &常常在#中见到
 80. video stabilization 视频稳定
 81. rational 合理的
+82. extremely subtle (errors) 极微妙的
 
 ## T
 1. & has tendency to do / & tend to do 有趋势
@@ -802,8 +822,10 @@
     temporally coherent object detections 时序相关的检测
     temporal smoothness 时序上平滑
     temporal interdependency between 时序的相关性
-21. is rarely tackled 还未被解决
+21. & is rarely tackled 还未被解决
+    & remain unresolved 依然未解决
 22. tedious 乏味的、冗长的
+    The tedious work of doing
 23. throughout (the video) 贯穿、遍及、从始至终、到处 prep.
 24. tradeoff parameters 需要权衡的参数
 25. & be traced back to # 追溯到#
@@ -823,13 +845,15 @@
 10. underlying reason 潜在的原因
 11. Up-to-date (approach) 最新的、最近的
 12. undergo/encounter/ # 经历、遭遇#
+    suffer form #
 13. Undoubtedly,  毫无疑问地
 
 
 ## V
 1. We validate the proposed approach by doing 验证
 2. be verified to be effective 被验证有效
-2. In view of 以...观点
+2. In view of # 以...观点/立场
+   from #(the optimization) point-of-view
 3. validate 验证
 4. vice versa 反之亦然
 5. spatial vicinity (空间上)周边的区域

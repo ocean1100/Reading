@@ -44,6 +44,7 @@
 8. ability **to** do # 做#的能力
 9. **account for** # 解释
 10. It is **assumed** that 假设
+    Assuming # do
 11. **above** / **below** the water surface 在水面上/下
 12. Additionally, 加之， 又
 13. aforementioned = above-mentioned 上面提到的/上述的
@@ -96,7 +97,7 @@
 53. After all 毕竟、终究
 54. & be advancing at a rapid pace &正在迅速发展
 55. attribute & to # 把&归因于#
-56. akin 类似的
+56. be akin to # 类似的
 57. aggregate (multi-image)
     (multi-image) aggregation 聚合、聚集
 58. artifact(s) 人为的痕迹(形容图像处理后产生的奇怪东西)
@@ -138,9 +139,11 @@
 25. buoy 浮标
 26. ... , especially in the background of #, ... 尤其是在#背景下
 27. & **bypass(es)** (the difficulty of #) 绕过
+28. broadly 概括地
 
 ## C
 1. be **crucial/key** to (doing) # 对#起决定性作用/ 关键
+   play a **decisive** role in its performance 起决定性作用
 2. contextual information 上下文信息
 3. & has received/attracted considerable/rapidly increased attention due to # from/in the research community 由于#，&得到了大量/迅速增长的关注
 4.  Contrast stretch 对比度增强
@@ -200,7 +203,7 @@
 54. ... are not considered ...是未经仔细思考的
 56. combat this problem 对抗这个问题
 57. visually conspicuous 视觉上显眼的
-58. & is typically cast as a problem of # &被视为一个典型的问题
+58. & is (typically) cast/posed as #(a problem of #) &被视为一个典型的问题
 59. be categorized into (three sub-groups) 被分为...类
 60. To counteract # 应对...
     To cope with # (this)
@@ -235,6 +238,9 @@
     clamp weights 钳制参数
 83. The costly work of doing 代价高的工作
 84. composite 复合的、合成的 adj，使合成 vt
+85. ..., called/termed # 称为、也就是#
+    ..., i.e./namely/say, # 也就是#
+86. composability 可组合性
 
 ## D
 1. a **downstroke** phase 下行程
@@ -247,7 +253,6 @@
 8. , where $Mm$, $Dm$ and $xm$ denote the $A$, $B$, and $C$, respectively, while $fh$ and $fm$ represent $D$ and $E$ 表示
 9. Denoting with $A$ $B$ , $C$ do 用A表示B，则C...
 10. dispersibility / dispersion  分散性，散布
-11. play a decisive role in its performance 起决定性作用
 12. distortion 失真
 13. & have been demonstrated in the experiments 在实验中说明
 14. derive 衍生，派生
@@ -293,7 +298,8 @@
 43. differentiate between A and B 区分 vt.
 44. There is no denying that 不可否认的是
 45. distractor 干扰选项，错误答案
-46. is dominated by # 被#主导
+46. is **dominated** by # 被#主导
+47. &(复杂的问题) can be **disentangled** into #(简单的问题) 解决、松开、解脱
 
 ## E
 1. in exposures of 暴露
@@ -314,7 +320,7 @@
 16. exhibit # 展现出
 17. encompasses # 包围，包含
 18. In essence 本质上
-19. is (length-specifically) equivalent to 相当于
+19. is (length-specifically) equivalent to 相当于，等价于
 20. earlier papers (have focused on) 前面的文章
 21. exploit #(the property that) 开发
 22. elegant (architecture) / succinct (overview) 简洁的
@@ -345,6 +351,8 @@
 45. it is expected that 期望是
 46. extrapolate 推断，推测 vt
     extrapolated 推测的
+47. enforce = conduct = carry out 执行、实施
+48. extend & to # 扩展&到#
 
 ## F
 1. following their example, 根据
@@ -420,6 +428,7 @@
 1. introduce A to B 把A引入到B
 2. implicitly 隐含地
    & imply that / It implies that 意味着、表明
+   & imply # &暗示、包含了#
 3. induces 引起
 5. (at any) time instant 时间片
    timestamp(s) 时间点
@@ -444,6 +453,7 @@
 21. incompleteness 不完整性
 22. be identical/consistent with // be in accordance with // coincide with // correspond to 一致
     In accordance with #, & do (可形容&采取的方法和#保持一致)
+    Inheriting from #, & do 继承
 24. imagine 设想 vt
 25. induce = incur 引起
 26. be inspired by # 受#启发
@@ -453,7 +463,7 @@
 29. Irrespective of # 不考虑，不顾
 30. it is of interest to explore 有趣
 31. impede = hamper 阻碍
-32. Intuitively 直觉地
+32. Intuitively 直觉地、直观地
     intuitive idea 直觉的
     intuition 直觉
 33. the immense number of 大量的
@@ -480,6 +490,7 @@
 58. in-depth (investigation) 深入的
 59. insight(s) into #(developing innovative underwater vehicles) 对#的洞察
 60. & can be interpreted as # &可以被理解为#
+61. invertible 可逆的
 
 ## J
 1. jointly 连带地
@@ -594,6 +605,8 @@
 19. (critically) progressive 进步的
 20. preliminary 初步的
 21. it is not even possible to do(derive) 甚至不可能(得到)
+    & make it possible to do # 使#成为可能
+    It becomes possible to do # 成为可能
 22. plausible 似乎是真的
 23. have been previously proposed 已被提出
 24. perturbation 微小的扰动
@@ -635,6 +648,8 @@
     a priori knowledge of image is required 需要一些先验知识
 59. & is problematic to # 在#方面有问题、不确定
 60. perceptible 可察觉的，可感知的，看得见的
+61. (random-)perturbed  (随机)扰动的
+62. pairwise 成对的
 
 ## Q
 1. quantify 量化
@@ -708,6 +723,7 @@
 54. relation of # to & #和&的关系
 55. More remarkably, 更显著/明显地
     remarkable 明显的
+56. be restricted to 被限制在
 
 ## S
 1. the method **struggles** with sth / to do sth 表现不好
@@ -744,7 +760,7 @@
 32. taken significant steps in #  在#方面走出了重要一步
     & is  an essential step towards # 是关键的一步
 33. solution to # #的解决方案
-34. it is sufficient to do ...足够
+34. it is sufficient/suffice to do/that ...足够
 35. seek # 寻求
 36. seminal work 初始的(对后续工作有较大影响的)工作
 37. sophisticated 精密的
@@ -831,6 +847,7 @@
 25. & be traced back to # 追溯到#
 26. & tardily responds to # 对#的反应缓慢
 27. & turn out to be #(a highly challenging task) 结果是
+28. sb. term & as # 把&称作#
 
 ## U
 1. an **upstroke** phase 上行程
@@ -884,6 +901,7 @@
 7. Whichever 无论哪一种
 8. widespread 普遍地，广泛地 (a very widespread method is to do)
 9. a wide range of #(augmentability and applicability) 广泛的
+10. in other words, 换句话说
 
 ## X
 ## Y

@@ -100,7 +100,7 @@
 56. be akin to # 类似的
 57. aggregate (multi-image)
     (multi-image) aggregation 聚合、聚集
-58. artifact(s) 人为的痕迹(形容图像处理后产生的奇怪东西)
+58. artifact(s) 人工痕迹，人为的痕迹(形容图像处理后产生的奇怪东西)
 59. Without the aid of #, ... 没有来自#的帮助
 60.  be absent in #(the existing video generation frameworks) 缺席，还没有
 61. allow & to do # 允许/使得&(可以)做
@@ -170,7 +170,7 @@
 22. & is of crucial importance &是很重要的
 23. (its deeper/shallower) counterpart 版本
 24. counterintuitive 反直觉的
-25. be capable of (doing) something = has capability of doing = be competent in doing = be/become capable to do 有能力
+25. be capable of (doing) something = has capability of doing = be competent for # / in doing # = be/become capable to do 有能力
 27. craft 工艺
     hand-crafted 人工设计的
 > [singular] the skills needed for a particular profession
@@ -211,6 +211,7 @@
 61. (un)conventional (非)传统的
 62. computationally efficient / computationally (in)expensive 计算量小的/大的
     computational cost(s) 计算量
+    computational efficiency 计算效率
     time cost will grow surprisingly high 计算时间会很高
     impractical execution time 不实际的执行时间
     & can potentially be a waste of time &是很浪费时间的
@@ -241,6 +242,7 @@
 85. ..., called/termed # 称为、也就是#
     ..., i.e./namely/say, # 也就是#
 86. composability 可组合性
+87. &(researchers) reach a consensus on # 就#达成一致
 
 ## D
 1. a **downstroke** phase 下行程
@@ -321,6 +323,7 @@
 17. encompasses # 包围，包含
 18. In essence 本质上
 19. is (length-specifically) equivalent to 相当于，等价于
+    & equate to # 等价于
 20. earlier papers (have focused on) 前面的文章
 21. exploit #(the property that) 开发
 22. elegant (architecture) / succinct (overview) 简洁的
@@ -353,6 +356,8 @@
     extrapolated 推测的
 47. enforce = conduct = carry out 执行、实施
 48. extend & to # 扩展&到#
+49. equal 匹敌，比得上vt. 平等的，相等的，胜任的adj.
+    be equal to 1). 等于，与...相同 2). 比得上，敌得过，胜任，合适，有…的能力
 
 ## F
 1. following their example, 根据
@@ -403,6 +408,7 @@
 4. & give rise to # = # is produced by & = # result in & = & lead to # = & invite # = & cause # = & incur # = bring about # 导致/造成
 5. & gains more importance as # do &变得更加重要当...
 6. & is one of the fastest growing fields of # &是一个快速的发展的领域
+7. & ..., **giving rise to** # &...导致、给出#
 
 ## H
 1. haptic 触觉的
@@ -423,6 +429,7 @@
 15. heuristic 启发式的
 16. this assumption does not always hold. 假设不成立
 17. & highlights the need for # 强调了#的必要性
+18. homogeneous coordinates 齐次坐标
 
 ## I
 1. introduce A to B 把A引入到B
@@ -491,6 +498,9 @@
 59. insight(s) into #(developing innovative underwater vehicles) 对#的洞察
 60. & can be interpreted as # &可以被理解为#
 61. invertible 可逆的
+62. & be strongly influenced by # &受到#很大的影响
+63. impair #(the training speed) 损害、削弱、减少
+
 
 ## J
 1. jointly 连带地
@@ -515,6 +525,7 @@
 9. be largely limited in # 很大程度被限制在#
 10. Likewise, # do 同样地
 11. we limit our attention to # 我们更加关注#
+12. Over recent years, the **landscape** of computer vision has been drastically altered and pushed forward through the adoption of a fast, scalable, end-to-end learning framework, the Convolutional Neural Network (CNN) 研究状态
 
 ## M
 1. mostly 主要地
@@ -650,6 +661,7 @@
 60. perceptible 可察觉的，可感知的，看得见的
 61. (random-)perturbed  (随机)扰动的
 62. pairwise 成对的
+63. pragmatic 实际的、实用的
 
 ## Q
 1. quantify 量化
@@ -864,6 +876,7 @@
 12. undergo/encounter/ # 经历、遭遇#
     suffer form #
 13. Undoubtedly,  毫无疑问地
+14. & is still not fully understood &还没完全研究明白
 
 
 ## V
@@ -908,4 +921,5 @@
 1. Years of research in # have done
 2. we study an important yet less explored aspect in # 重要但少有被研究
    a crucial yet usually ignored aspect 关键但被忽略
+   & have not yet done &还没有被done
 ## Z

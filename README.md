@@ -25,7 +25,10 @@ This is my reading notes, some of which are comprehensive and some are brief. In
 ## Image2image
 
 - [Attention-GAN_for_Object_Transfiguration_in_Wild_Images](./Image2image/Attention-GAN_for_Object_Transfiguration_in_Wild_Images.md)
+- [Composable_Unpaired_Image_to_Image_Translation](./Image2image/Composable_Unpaired_Image_to_Image_Translation.md)
 - [DualGAN_Unsupervised_Dual_Learning_for_Image-to-Image_Translation](./Image2image/DualGAN_Unsupervised_Dual_Learning_for_Image-to-Image_Translation.md)
+- [Generating_a_Fusion_Image_One’s_Identity_and_Another’s_Shape](./Image2image/Generating_a_Fusion_Image_One’s_Identity_and_Another’s_Shape.md)
+- [Spatial_Transformer_Networks](./Image2image/Spatial_Transformer_Networks.md)
 - [WaterGAN_Unsupervised_Generative_Network_to_Enable_Real-time_Color_Correction_of_Monocular_Underwater_Images](./Image2image/WaterGAN_Unsupervised_Generative_Network_to_Enable_Real-time_Color_Correction_of_Monocular_Underwater_Images.md)
 - [[CGAN]_Conditional_Generative_Adversarial_Nets](./Image2image/[CGAN]_Conditional_Generative_Adversarial_Nets.md)
 - [[CycleGAN]_Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks](./Image2image/[CycleGAN]_Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.md)
@@ -33,11 +36,13 @@ This is my reading notes, some of which are comprehensive and some are brief. In
 - [[GAN_AC]_Connecting_Generative_Adversarial_Networks_and_Actor-Critic_Methods](./Image2image/[GAN_AC]_Connecting_Generative_Adversarial_Networks_and_Actor-Critic_Methods.md)
 - [[ITGAN]_Improved_Techniques_for_Training_GANs](./Image2image/[ITGAN]_Improved_Techniques_for_Training_GANs.md)
 - [[IWGAN]_Improved_Training_of_Wasserstein_GANs](./Image2image/[IWGAN]_Improved_Training_of_Wasserstein_GANs.md)
+- [[LAPGAN]_Deep_Generative_Image_Models_using_a_Laplacian_Pyramid_of_Adversarial_Networks](./Image2image/[LAPGAN]_Deep_Generative_Image_Models_using_a_Laplacian_Pyramid_of_Adversarial_Networks.md)
 - [[OpticalFlow]_Semi-Supervised_Learning_for_Optical_Flow_with_Generative_Adversarial_Networks](./Image2image/[OpticalFlow]_Semi-Supervised_Learning_for_Optical_Flow_with_Generative_Adversarial_Networks.md)
 - [[pix2pix]_Image-to-Image_Translation_with_Conditional_Adversarial_Networks](./Image2image/[pix2pix]_Image-to-Image_Translation_with_Conditional_Adversarial_Networks.md)
 - [[SRGAN]_Photo-Realistic_Single_Image_Super-Resolution_Using_a_Generative_Adversarial_Network](./Image2image/[SRGAN]_Photo-Realistic_Single_Image_Super-Resolution_Using_a_Generative_Adversarial_Network.md)
 - [[SSGAN]_Semi-supervised_Conditional_GANs](./Image2image/[SSGAN]_Semi-supervised_Conditional_GANs.md)
 - [[STSR]_Perceptual_Losses_for_Real-Time_Style_Transfer_and_Super-Resolution](./Image2image/[STSR]_Perceptual_Losses_for_Real-Time_Style_Transfer_and_Super-Resolution.md)
+- [[UNIT]_Unsupervised_Image-to-Image_Translation_Networks](./Image2image/[UNIT]_Unsupervised_Image-to-Image_Translation_Networks.md)
 
 ## Segmentation
 
@@ -53,7 +58,9 @@ This is my reading notes, some of which are comprehensive and some are brief. In
 - [Deep_multi-scale_video_prediction_beyond_mean_square_error](./SeqGenerating/Deep_multi-scale_video_prediction_beyond_mean_square_error.md)
 - [Deep_video_deblurring](./SeqGenerating/Deep_video_deblurring.md)
 - [Generating_Videos_with_Scene_Dynamics](./SeqGenerating/Generating_Videos_with_Scene_Dynamics.md)
+- [Temporal_generative_adversarial_nets_with_singular_value_clipping](./SeqGenerating/Temporal_generative_adversarial_nets_with_singular_value_clipping.md)
 - [Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction](./SeqGenerating/Unsupervised_Learning_for_Physical_Interaction_through_Video_Prediction.md)
+- [Unsupervised_Learning_of_Video_Representations_using_LSTMs](./SeqGenerating/Unsupervised_Learning_of_Video_Representations_using_LSTMs.md)
 - [[C-RNN-GAN]_Continuous_recurrent_neural_networks_with_adversarial_training](./SeqGenerating/[C-RNN-GAN]_Continuous_recurrent_neural_networks_with_adversarial_training.md)
 - [[CodingFlow]_Enable_Video_Coding_for_Video_Stabilization](./SeqGenerating/[CodingFlow]_Enable_Video_Coding_for_Video_Stabilization.md)
 - [[DBLRGAN]_Adversarial_Spatio-Temporal_Learning_for_Video_Deblurring](./SeqGenerating/[DBLRGAN]_Adversarial_Spatio-Temporal_Learning_for_Video_Deblurring.md)
@@ -65,15 +72,11 @@ This is my reading notes, some of which are comprehensive and some are brief. In
 ## ToBeContinued
 
 - [A_Cascaded_Convolutional_Neural_Network_for_Single_Image_Dehazing](./ToBeContinued/A_Cascaded_Convolutional_Neural_Network_for_Single_Image_Dehazing.md)
-- [Composable_Unpaired_Image_to_Image_Translation](./ToBeContinued/Composable_Unpaired_Image_to_Image_Translation.md)
 - [Concern](./ToBeContinued/Concern.md)
-- [Deep_Generative_Image_Models_using_a_Laplacian_Pyramid_of_Adversarial_Networks](./ToBeContinued/Deep_Generative_Image_Models_using_a_Laplacian_Pyramid_of_Adversarial_Networks.md)
 - [Generating_images_with_recurrent_adversarial_networks](./ToBeContinued/Generating_images_with_recurrent_adversarial_networks.md)
 - [Mix_and_match_networks_encoder-decoder_alignment_for_zero-pair_image_translation](./ToBeContinued/Mix_and_match_networks_encoder-decoder_alignment_for_zero-pair_image_translation.md)
 - [Multimodal_Unsupervised_Image-to-Image_Translation](./ToBeContinued/Multimodal_Unsupervised_Image-to-Image_Translation.md)
-- [Spatially_and_Temporally_Optimized_Video_Stabilization](./ToBeContinued/Spatially_and_Temporally_Optimized_Video_Stabilization.md)
 - [Towards_High_Performance_Video_Object_Detection_for_Mobiles](./ToBeContinued/Towards_High_Performance_Video_Object_Detection_for_Mobiles.md)
-- [Unsupervised_Image-to-Image_Translation_Networks](./ToBeContinued/Unsupervised_Image-to-Image_Translation_Networks.md)
 - [[S-LSTM-GAN]_Shared_recurrent_neural_networks_with_adversarial_training](./ToBeContinued/[S-LSTM-GAN]_Shared_recurrent_neural_networks_with_adversarial_training.md)
 
 ## Tracking

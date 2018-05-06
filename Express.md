@@ -105,6 +105,7 @@
 60.  be absent in #(the existing video generation frameworks) 缺席，还没有
 61. allow & to do # 允许/使得&(可以)做
 62. assure (that) 确保
+63. be adept/good at 擅长
 
 ## B
 1. binocular(ly) 双目的
@@ -298,10 +299,14 @@
 43. are diverse from each other 各不相同，不同
 44. (key) deficiency / drawback / shortage / flaw 缺点
 43. differentiate between A and B 区分 vt.
+    differentiate #
 44. There is no denying that 不可否认的是
 45. distractor 干扰选项，错误答案
 46. is **dominated** by # 被#主导
 47. &(复杂的问题) can be **disentangled** into #(简单的问题) 解决、松开、解脱
+48. data-like examples 和数据类似的样本(用于形容GAN的G生成的样本)
+    data-likeness 数据相似度
+    > “Data-likeness” is judged by a simultaneously trained, but otherwise separate, discriminator neural network
 
 ## E
 1. in exposures of 暴露
@@ -358,6 +363,7 @@
 48. extend & to # 扩展&到#
 49. equal 匹敌，比得上vt. 平等的，相等的，胜任的adj.
     be equal to 1). 等于，与...相同 2). 比得上，敌得过，胜任，合适，有…的能力
+50. end up with # 以#结束
 
 ## F
 1. following their example, 根据
@@ -400,7 +406,8 @@
     An argument against doing # 反对#的论据
 27. fix up # 改进、解决、修理
 28. feature / map / tensor /  representation 特征(形容conv的输出)
-
+29. forgoes # 放弃
+    & forgo the need to do 不需要
 ## G
 1. generic 一般的
 2. the fourth-generation robotic fish 第四代机器鱼
@@ -520,7 +527,6 @@
 4. length-specific 长度特异的(用于形容单位是BL相关的量)
 5. layout 布局，设计
 6. fish (swimming) locomotion hydrodynamics 鱼类游动动力学
-7. latent 潜在的
 8. There has been very limited published research in # #方面的研究有限
 9. be largely limited in # 很大程度被限制在#
 10. Likewise, # do 同样地
@@ -551,6 +557,7 @@
 20. multifarious 多种多样的
 21. In the meantime = Meanwhile = simultaneously 同时
 22. unimodal / multimodal (distribution)单/多峰的(分布)
+23. would like # to do 期望#做
 
 ## N
 1. notably = noticeably 显著地，值得注意地
@@ -604,7 +611,6 @@
 13. have the potential of doing 有潜力
 14. prohibit & from doing 限制/禁止
 15. Great progress has made in # 已取得重大进步
-16. promising advantages 潜在的优点
 17. for the purpose of # 为了#目的
     for the sake of #
     & is primarily targeted at # 目标/目的是
@@ -662,6 +668,8 @@
 61. (random-)perturbed  (随机)扰动的
 62. pairwise 成对的
 63. pragmatic 实际的、实用的
+64. proper 合适的、适当的
+    It is more proper to do
 
 ## Q
 1. quantify 量化
@@ -724,18 +732,20 @@
   rise 可用作名词
 46. brief review 简要的回顾
 47. rotational motion 旋转运动
-48. Referring to Fig. 2, & do 参考Fig2 (=As (schematically)  illustrated/shown/depicted/demonstrated in Fig. 2)
+48. Referring to Fig. 2, & do 参考Fig2 (=As (schematically)  illustrated/shown/depicted/demonstrated/delineated in Fig. 2)
 49. it runs at 40.2 FPS on a NVIDIA Titan X GPU with the input sizes 320 × 320 in inference 推理时间
 & has a frame rate of 5fps on a GPU
 50. & required in # 被#需要的&
     require & to do #
-51. it is unrealistic to do # 做#不现实
+51. realistic 现实的
+    it is unrealistic to do # 做#不现实
 52. relegate & as # 把&归类为#
 53. (dramatically) revolutionize # 彻底改革#
 54. relation of # to & #和&的关系
 55. More remarkably, 更显著/明显地
     remarkable 明显的
 56. be restricted to 被限制在
+57. realistic-looking images 逼真的图像
 
 ## S
 1. the method **struggles** with sth / to do sth 表现不好
@@ -808,6 +818,7 @@
 68. be spread-out in time 在时间上展开的
 69. stealth 鱼的低扰动性 n.
 70. Since then, & do 从那以后
+    Henceforth, & do 此后
 71. be subdivided into 细分为
 73. shed light on # 阐明，说清楚
 74. sway(v.) head yawing/swing(n.) (鱼头的)摇晃
@@ -821,7 +832,8 @@
     & is often seen in # &常常在#中见到
 80. video stabilization 视频稳定
 81. rational 合理的
-82. extremely subtle (errors) 极微妙的
+82. extremely **subtle** (errors) 极微妙的
+83. **Strictly** speaking, # do 严格地说
 
 ## T
 1. & has tendency to do / & tend to do 有趋势
@@ -860,6 +872,7 @@
 26. & tardily responds to # 对#的反应缓慢
 27. & turn out to be #(a highly challenging task) 结果是
 28. sb. term & as # 把&称作#
+29. troublesome 麻烦的
 
 ## U
 1. an **upstroke** phase 上行程
@@ -869,9 +882,10 @@
 5. ubiquitous 普遍的/无处不在的
 6. untethered 不受约束的
 7. ..., with little understanding of # 对#的理解较少
-8. underlying 根本的，潜在的
+8. underlying (reason) 根本的，潜在的
+   latent 潜在的
+   promising advantages 潜在的优点
 9. ubiquitous 普遍存在的，无处不在的
-10. underlying reason 潜在的原因
 11. Up-to-date (approach) 最新的、最近的
 12. undergo/encounter/ # 经历、遭遇#
     suffer form #
@@ -915,6 +929,7 @@
 8. widespread 普遍地，广泛地 (a very widespread method is to do)
 9. a wide range of #(augmentability and applicability) 广泛的
 10. in other words, 换句话说
+11. While it is not difficult to do #, it is not easy to do 虽然...不难，但也不简单
 
 ## X
 ## Y

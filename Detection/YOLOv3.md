@@ -1,6 +1,7 @@
 # YOLOv3: An Incremental Improvement
 [paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 [pytorch](https://blog.paperspace.com/tag/series-yolo/)
+[zhihu](https://zhuanlan.zhihu.com/p/35394369?utm_source=qq&utm_medium=social&utm_member=MWY1NGYxODRmOWU4ZDc4MmExMDk0NzRiOTg0ZmUxNmI%3D)
 
 ## Deal
 1. 不使用softmax，开放式分类

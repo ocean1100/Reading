@@ -66,6 +66,7 @@
 23. applicability 适用性
 24. According to the authors’ knowledge = To our knowledge =  
     To the best of our knowledge据我所知
+    We are not aware of any prior work in # 我们没有见过之前的工作
 25. This approach has the advantage of/that 有优势
 26. In analogy to # 类似于
       analogical 类似的，相似的
@@ -105,7 +106,9 @@
 60.  be absent in #(the existing video generation frameworks) 缺席，还没有
 61. allow & to do # 允许/使得&(可以)做
 62. assure (that) 确保
+    &(The online nature of our method) enables # to do 确保#做、使能
 63. be adept/good at 擅长
+64. unambiguous 不含糊的、清楚的、明白的
 
 ## B
 1. binocular(ly) 双目的
@@ -114,7 +117,8 @@
 4. bottleneck 瓶颈
 5. breakthrough(s) 突破
 6. benchmark 基准，参考物
-7. & can run at frame-rates beyond real time while maintaining state-of-the-art performance. 实时的同时保持性能
+7. & can run at frame-rates **beyond** real time while maintaining state-of-the-art performance. 实时的同时保持性能
+   do # at real time 实时地
 8. unbalanced (adj.) imbalance (n.) 不平衡
 9. on this basis 在此基础上
 10. bidirectionally 双向地
@@ -169,6 +173,7 @@
 20. when it comes to # / in terms of # / As for # / Concerning # / As far as # is concerned / In case of #  就#而言
 21. comprehensive 综合的
 22. & is of crucial importance &是很重要的
+    & is particularly important for #
 23. (its deeper/shallower) counterpart 版本
 24. counterintuitive 反直觉的
 25. be capable of (doing) something = has capability of doing = be competent for # / in doing # = be/become capable to do 有能力
@@ -251,12 +256,12 @@
 3. During the course of 过程中
 4. dynamic scenes 动态场景
 5. be denoted as 被记作
-6. non-distortion 非失真的
 7. some conclusions are drawn based on the above work 得到结论
 8. , where $Mm$, $Dm$ and $xm$ denote the $A$, $B$, and $C$, respectively, while $fh$ and $fm$ represent $D$ and $E$ 表示
 9. Denoting with $A$ $B$ , $C$ do 用A表示B，则C...
 10. dispersibility / dispersion  分散性，散布
 12. distortion 失真
+    non-distortion 非失真的
 13. & have been demonstrated in the experiments 在实验中说明
 14. derive 衍生，派生
 15. dilemma 左右为难的问题
@@ -265,6 +270,7 @@
      be deemed to be #
      be deemed to do #
      it is imperative to do/that 必要的/势在必行的
+     there is an imperative need of 迫切需要
      & is becoming urgently necessary 迫切需要
 18. draw/take inspiration from 启发
 19. design # specially tailored for (doing) 为...特制的/专门设计
@@ -280,6 +286,7 @@
     diverge / diverging from #，&
     Distinguished from #, & ... 不同于，区别于
     As opposed to #, & ...
+    (our methods) do & differently from # 做&不同于#
 27. & be indistinguishable from # 不能被区分的
 28. distinctive 有特色的，与众不同的
 29. discern 辨别(vt.)
@@ -323,7 +330,8 @@
 12. should be fully explored 完全地探究
 13. inevitably 不可避免地
 14. it is essential to do 有必要
-15. to some extent 某种程度上(adv.) to a large extent 很大程度上
+15. to some extent 某种程度上(adv.) 一定程度上
+    to a large extent 很大程度上
 16. exhibit # 展现出
 17. encompasses # 包围，包含
 18. In essence 本质上
@@ -364,6 +372,8 @@
 49. equal 匹敌，比得上vt. 平等的，相等的，胜任的adj.
     be equal to 1). 等于，与...相同 2). 比得上，敌得过，胜任，合适，有…的能力
 50. end up with # 以#结束
+51. efficacy / effect 功效、作用、效力
+52. excessively 过分的
 
 ## F
 1. following their example, 根据
@@ -408,6 +418,9 @@
 28. feature / map / tensor /  representation 特征(形容conv的输出)
 29. forgoes # 放弃
     & forgo the need to do 不需要
+    without the need/requirement of # / without the need for # 不需要
+    & no longer need # 不需要
+
 ## G
 1. generic 一般的
 2. the fourth-generation robotic fish 第四代机器鱼
@@ -563,7 +576,6 @@
 1. notably = noticeably 显著地，值得注意地
    notable = Noticeable
 2. noteworthy 值得注意的 (It is noteworthy/noted ( from the above studies) that)
-3. without the need of # / without the need for # 不需要
 4. naively 盲目地
 5. & is non-trivial task 并不是不重要的任务/不平凡的
 6. It should be noted/remarked that 需要注意的是
@@ -609,7 +621,8 @@
 11. paradigm 范例
 12. a path, S(s), with s being the path length parameter, is known. 参数的表达
 13. have the potential of doing 有潜力
-14. prohibit & from doing 限制/禁止
+14. prohibit & from (doing) # 限制/禁止
+    prevent & from (doing) # 阻止
 15. Great progress has made in # 已取得重大进步
 17. for the purpose of # 为了#目的
     for the sake of #
@@ -618,6 +631,7 @@
     We seek to do 寻求
     The objective of # is to 目标/目的是
     is meant to do/be 为了...
+    Our goal is to do
 18. & be performed on # &(某种性能)被#表现出来
 19. (critically) progressive 进步的
 20. preliminary 初步的
@@ -670,6 +684,7 @@
 63. pragmatic 实际的、实用的
 64. proper 合适的、适当的
     It is more proper to do
+65. promote # to do 促进
 
 ## Q
 1. quantify 量化
@@ -907,7 +922,7 @@
 9. and vice versa 反之亦然
 10. be viewed as 被视作
 11. visibly， evidently， Apparently 显然，明显地 be evidenced(v.) to be
-12. unveil (more details) 揭示
+12. unveil / reveal (more details) 揭示、显示
 13. vignetting 渐晕的
 14. practice/test venue 演练场地
 15. be vulnerable to # 在#方面易受伤的，

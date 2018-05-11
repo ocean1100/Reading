@@ -64,6 +64,7 @@ This is my reading notes, some of which are comprehensive and some are brief. In
 - [[C-RNN-GAN]_Continuous_recurrent_neural_networks_with_adversarial_training](./SeqGenerating/[C-RNN-GAN]_Continuous_recurrent_neural_networks_with_adversarial_training.md)
 - [[CodingFlow]_Enable_Video_Coding_for_Video_Stabilization](./SeqGenerating/[CodingFlow]_Enable_Video_Coding_for_Video_Stabilization.md)
 - [[DBLRGAN]_Adversarial_Spatio-Temporal_Learning_for_Video_Deblurring](./SeqGenerating/[DBLRGAN]_Adversarial_Spatio-Temporal_Learning_for_Video_Deblurring.md)
+- [[FFNet]_Video_Fast-Forwarding_via_Reinforcement_Learning](./SeqGenerating/[FFNet]_Video_Fast-Forwarding_via_Reinforcement_Learning.md)
 - [[GRAN]_Generating_images_with_recurrent_adversarial_networks](./SeqGenerating/[GRAN]_Generating_images_with_recurrent_adversarial_networks.md)
 - [[LAPGAN]_Deep_Generative_Image_Models_using_a_Laplacian_Pyramid_of_Adversarial_Networks](./SeqGenerating/[LAPGAN]_Deep_Generative_Image_Models_using_a_Laplacian_Pyramid_of_Adversarial_Networks.md)
 - [[MeshFlow]_Minimum_Latency_Online_Video_Stabilization](./SeqGenerating/[MeshFlow]_Minimum_Latency_Online_Video_Stabilization.md)

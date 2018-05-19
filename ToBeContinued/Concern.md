@@ -12,7 +12,12 @@
 4. Adversarial Complementary Learning for Weakly Supervised Object Localization
 [arXiv](https://arxiv.org/abs/1804.06962)
 
+
 ## Stereo
 1. Pyramid Stereo Matching Network
 [arXiv](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1803.08669)
 [github](https://github.com/JiaRenChang/PSMNet)
+
+## STN
+1. Spatial Transformer Introspective Neural Network
+[arXiv](https://arxiv.org/abs/1805.06447)

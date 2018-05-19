@@ -126,6 +126,7 @@
 12. & find it beneficial to do &发现...有益处
 13. There are benefits of & over # &相比起#有好处
 14. boost the performance 提升性能
+    elevate #(speed or/and accuracy) 提升、提高
 15. & can be broken up into #(three distinct phases) 分为
           be decomposed into (spatial and temporal components)
           be divided into
@@ -216,6 +217,7 @@
     combat this problem 对抗这个问题
 61. (un)conventional (非)传统的
 62. computationally efficient / computationally (in)expensive 计算量小的/大的
+    computational complexity 计算复杂度
     computational cost(s) 计算量
     computational efficiency 计算效率
     time cost will grow surprisingly high 计算时间会很高
@@ -249,6 +251,10 @@
     ..., i.e./namely/say, # 也就是#
 86. composability 可组合性
 87. &(researchers) reach a consensus on # 就#达成一致
+88.  &(performance gains) are **credited** to #(the ResNet-101) 归功于
+89. criterion for # 标准 criteria(复数形式)
+90. circumvent #(this problem) 回避、绕行
+91. cumbersome 笨重的、累赘的、难处理的
 
 ## D
 1. a **downstroke** phase 下行程
@@ -315,6 +321,8 @@
     data-likeness 数据相似度
     > “Data-likeness” is judged by a simultaneously trained, but otherwise separate, discriminator neural network
 
+49. discard 丢弃、取消vt.
+
 ## E
 1. in exposures of 暴露
 2. existing literature 现有工作(不可数)
@@ -353,6 +361,7 @@
     erroneous 错误的
 33. be explicitly designed to do 专门设计
 34. To this/that end 为了这个目的
+    To these ends
 35. elaborate (the details) 详细描述
     introduce in detail # 详细介绍#
 36. & have evolved (excellent propulsive) to do 进化出
@@ -374,6 +383,8 @@
 50. end up with # 以#结束
 51. efficacy / effect 功效、作用、效力
 52. excessively 过分的
+53. encouraging / promising 鼓舞人心的、有前途的
+54. extraneous (details) 外来的、没有关联的
 
 ## F
 1. following their example, 根据
@@ -394,7 +405,7 @@
 16. formidable / vast 大量的
 17. be framed as 被构造为
 18. Recent work has largely focused on doing 最近的工作大量关注
-19. perform (favorably) 顺利地，较好地
+19. (perform) favorably 顺利地，较好地，友好地
 20. frequently 经常地
 21. fluctuation （置信度）波动 cn.
 22. Fourier domain 频域
@@ -420,6 +431,7 @@
     & forgo the need to do 不需要
     without the need/requirement of # / without the need for # 不需要
     & no longer need # 不需要
+30.  fulfil #(real time processing) 履行vt
 
 ## G
 1. generic 一般的
@@ -571,6 +583,7 @@
 21. In the meantime = Meanwhile = simultaneously 同时
 22. unimodal / multimodal (distribution)单/多峰的(分布)
 23. would like # to do 期望#做
+24.  made prominent progress in # 取得显著的进步
 
 ## N
 1. notably = noticeably 显著地，值得注意地
@@ -587,6 +600,7 @@
 12. Nevertheless 然而 (代替However)
 13. keep a notion of # 保持#的见解
 14. nomenclature 命名法
+15. numerous (methods) 许多、很多
 
 ## O
 1.  originate from / stems from 源于
@@ -685,6 +699,8 @@
 64. proper 合适的、适当的
     It is more proper to do
 65. promote # to do 促进
+66. pioneering (work) 首创性的、开拓性的
+67. & performs sufficiently well to # 表现充分地好
 
 ## Q
 1. quantify 量化
@@ -723,7 +739,7 @@
 23. reasonable 合理的
 24. reason about # 推理，思考
 25. with respect to # / regarding 至于、关于、就...而言
-26. relieve/mitigate (the issue) 解除、减轻、缓解
+26. relieve/mitigate/moderate (the issue) 解除、减轻、缓解
 27. reliably 可靠地
 28. revised 改进的
 29. there are two reasons doing (preventing these advances from doing) 原因有两个
@@ -823,12 +839,13 @@
 58. Suppose # do (直接引导从句), & do 假设#...则&
     sb hypothesize/postulate that 假设
 60. & has a significant impact on # 有重大影响
+    & (have) led a huge wave in (doing) # 产生重大影响
 61. & showcase (the performance capabilities of # ) 展示了
 62. Subsequently 接着，随后
 63. & survive (severe natural selection) &从...中存活
 64. start with # 从#开始
 65. seamlessly 无缝地
-66. & **see modest/big/significant** improvements (in accuracy) 取得了有限/重大的进步
+66. & **see/achieve/induce** modest/big/significant improvements (in accuracy) 取得了有限/重大的进步
 67. side 一方面的 e.g., & predict semantic attribute as a side task.
 68. be spread-out in time 在时间上展开的
 69. stealth 鱼的低扰动性 n.
@@ -849,6 +866,7 @@
 81. rational 合理的
 82. extremely **subtle** (errors) 极微妙的
 83. **Strictly** speaking, # do 严格地说
+84. sacrifice #(accuracies) 牺牲
 
 ## T
 1. & has tendency to do / & tend to do 有趋势
@@ -952,4 +970,7 @@
 2. we study an important yet less explored aspect in # 重要但少有被研究
    a crucial yet usually ignored aspect 关键但被忽略
    & have not yet done &还没有被done
+   yet连接两个形容词:
+      + a fast yet powerful detector
+      + an important yet less explored aspect
 ## Z
